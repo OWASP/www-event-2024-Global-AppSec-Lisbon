@@ -2,11 +2,11 @@
   url: /
 - title: PROGRAM
   items:
-    - title: Schedule
+    #- title: Schedule
       url : /schedule/
     - title: Keynotes
       url : /
-    - title: Training
+    #- title: Training
       url : /trainings/
     - title: Event Images
       url : /media/
@@ -18,11 +18,11 @@
       url: /
 - title: EXHIBIT
   items:
-    - title: Exhibitor & Sponsorship Prospectus 
+    #- title: Exhibitor & Sponsorship Prospectus 
       url: /assets/files/
-    - title: Exhibitors & Sponsors
+    #- title: Exhibitors & Sponsors
       url: /sponsors/
-    - title: Exhibitor Kit
+    #- title: Exhibitor Kit
       url: /exhibitordetails/
 - title: ABOUT
   url: /about/
@@ -30,7 +30,7 @@
     - title: Hotel Reservations
       url: 
     - title: Volunteer
-      url: 
+      url: https://owasp.wufoo.com/forms/zxop530zniwvr/
     - title: OWASP Merchandise
       url: https://owasp.org/store
     - title: Hotel Booking 
