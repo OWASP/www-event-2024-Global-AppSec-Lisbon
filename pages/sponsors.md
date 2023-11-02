@@ -8,7 +8,7 @@ permalink: /sponsors/
 
 # {{ page.title }}
 We would like to recognize our sponsors and exhibitors: 
-
+{% if site.data.sponsors.size > 0 %}
 {% assign diamond_plus = site.data.sponsors | where: "type", "Diamond Plus" | sort: "name" %}
 {% assign diamonds = site.data.sponsors | where: "type", "Diamond" | sort: "name" %}
 {% assign golds = site.data.sponsors | where: "type", "Gold" | sort: "name" %}
@@ -106,3 +106,4 @@ We would like to recognize our sponsors and exhibitors:
 <br><br>
 <p>
 <hr>
+{% endif %}
