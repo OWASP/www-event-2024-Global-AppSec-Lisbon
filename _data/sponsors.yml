@@ -1,0 +1,50 @@
+- logo: /assets/images/sponsors/your-logo-here1.png
+  #name:
+  url: https://dc.globalappsec.org/assets/files/AppSec_DC_sponsorship.pdf
+  #backgroundSize: 125px
+  #type: Diamond
+# - logo: /assets/images/sponsors/Arnica_Logo.png
+#   name: Arnica
+#   url: https://www.arnica.io/
+#   #backgroundSize: 125px
+#   type: Diamond
+# - logo: /assets/images/sponsors/oxeye_rgb_logo__light_1.png
+#   name: Oxeye
+#   url: https://www.oxeye.io/
+#   #backgroundSize: 125px
+#   type: Gold
+# - logo: /assets/images/sponsors/Mobb_logo.png
+#   name: Mobb
+#   url: https://www.mobb.dev/
+#   #backgroundSize: 125px
+#   type: Start-Up
+# - logo: /assets/images/sponsors/secureflagposhighres_copy.png
+#   name: SecureFlag
+#   url: https://www.secureflag.com/
+#   #backgroundSize: 125px
+#   type: Gold
+# - logo: /assets/images/sponsors/Bright_Logo.png
+#   name: Bright Security
+#   url: https://brightsec.com/
+#   #backgroundSize: 125px
+#   type: Gold
+# - logo: /assets/images/sponsors/iriusrisk_logo__dark_blue01_2.png
+#   name: IriusRisk
+#   url: https://www.iriusrisk.com/
+#   #backgroundSize: 125px
+#   type: Gold
+# - logo: /assets/images/sponsors/NowSecure_Logo_Horizontal_Blue.png
+#   name: NowSecure
+#   url: https://www.nowsecure.com/
+#   #backgroundSize: 125px
+#   type: Silver
+# - logo: /assets/images/sponsors/Phylum.png
+#   name: Phylum, Inc.
+#   url: https://www.phylum.io/
+#   #backgroundSize: 125px
+#   type: Silver
+# - logo: /assets/images/sponsors/Semgrep.png
+#   name: Semgrep
+#   url: https://semgrep.dev/
+#   #backgroundSize: 125px
+#   type: Silver

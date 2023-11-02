@@ -1,0 +1,20 @@
+# - Type: Training
+#   Trainers: 
+#     - Name: Trainer Uno
+#       Email: trainer.uno@owasp.org
+#       Image: /assets/images/trainers/
+#       Twitter: trainer_uno
+#       Biography: >-
+#           Basic Biography
+#       TrainerId: trainer001
+#     -Name: Trainer Dos
+#       Email: tainer.dos@owasp.org
+#       Image: /assets/images/trainers/
+#       Twitter: Trainer_Dos
+#       Biography: Basic Biography
+#       TrainerId: trainer_dos
+#   Title: Title of Training
+#   URL: 
+#   SectionId: sku_IWAHBB
+#   Description: >-
+#       Description

@@ -1,0 +1,42 @@
+- title: HOME
+  url: /
+- title: PROGRAM
+  items:
+    - title: Schedule
+      url : /schedule/
+    - title: Keynotes
+      url : /
+    - title: Training
+      url : /trainings/
+    - title: Event Images
+      url : /media/
+    - title: Training
+      url: /
+    - title: Call for Trainers
+      url: /
+    - title: Call for Papers
+      url: /
+- title: EXHIBIT
+  items:
+    - title: Exhibitor & Sponsorship Prospectus 
+      url: /assets/files/
+    - title: Exhibitors & Sponsors
+      url: /sponsors/
+    - title: Exhibitor Kit
+      url: /exhibitordetails/
+- title: ABOUT
+  url: /about/
+  items:
+    - title: Hotel Reservations
+      url: 
+    - title: Volunteer
+      url: 
+    - title: OWASP Merchandise
+      url: https://owasp.org/store
+    - title: Hotel Booking 
+      url: 
+    - title: Event Code of Conduct
+      url: /event/codeofconduct/
+    - title: Venue
+      url: 
+      
