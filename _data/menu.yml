@@ -4,19 +4,19 @@
   items:
     #- title: Schedule
     #  url : /schedule/
-    - title: Keynotes
+    #- title: Keynotes
       url : /
     #- title: Training
     #  url : /trainings/
-    - title: Event Images
+    # - title: Event Images
       url : /media/
-    - title: Training
+    # - title: Training
       url: /
-    - title: Call for Trainers
+    - title: Call for Trainers - OPENS DECEMBER 20
       url: /
-    - title: Call for Papers
+    - title: Call for Papers - OPENS FEBRUARY 20
       url: /
-- title: EXHIBIT
+- title: EXHIBIT & SPONSORSHIP - COMING SOON!
   items:
     #- title: Exhibitor & Sponsorship Prospectus 
     #  url: /assets/files/
@@ -27,16 +27,16 @@
 - title: ABOUT
   url: /about/
   items:
-    - title: Hotel Reservations
+    - #title: Hotel Reservations
       url: 
-    - title: Volunteer
+    - #title: Volunteer
       url: https://owasp.wufoo.com/forms/zxop530zniwvr/
     - title: OWASP Merchandise
       url: https://owasp.org/store
-    - title: Hotel Booking 
+    - #title: Hotel Booking 
       url: 
     - title: Event Code of Conduct
       url: /event/codeofconduct/
     - title: Venue
-      url: 
+      url: https://ccl.lisbonvenues.pt/en/
       
