@@ -3,11 +3,11 @@
 - title: PROGRAM
   items:
     #- title: Schedule
-      url : /schedule/
+    #  url : /schedule/
     - title: Keynotes
       url : /
     #- title: Training
-      url : /trainings/
+    #  url : /trainings/
     - title: Event Images
       url : /media/
     - title: Training
@@ -19,11 +19,11 @@
 - title: EXHIBIT
   items:
     #- title: Exhibitor & Sponsorship Prospectus 
-      url: /assets/files/
+    #  url: /assets/files/
     #- title: Exhibitors & Sponsors
-      url: /sponsors/
+    #  url: /sponsors/
     #- title: Exhibitor Kit
-      url: /exhibitordetails/
+    #  url: /exhibitordetails/
 - title: ABOUT
   url: /about/
   items:
