@@ -7,7 +7,7 @@ registration_url: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2023-t
 logo_url: https://owasp.org/
 venue: Lisbon Congress Center
 location: Praça das Industrias, 1 1300-307 Lisbon, Portugal
-background: 
+background: Lisbon.png
 background-style: 'linear-gradient(to right, #242158 50%, #84282b 50%)'
 background-padding: 0em 2em 0em 2em
 keynotestextcolor: fff
