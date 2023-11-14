@@ -5,15 +5,15 @@ conference: June 27-28
 training: June 24-26
 registration_url: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2023-tickets-750689411237?aff=oddtdtcreator
 logo_url: https://owasp.org/
-venue: TBA
-location: TBA
+venue: Lisbon Congress Center
+location: Praça das Industrias, 1 1300-307 Lisbon, Portugal
 background: 
 background-style: 'linear-gradient(to right, #242158 50%, #84282b 50%)'
 background-padding: 0em 2em 0em 2em
 keynotestextcolor: fff
 color: 242158
 analytics: 
-registration_open: false
+registration_open: true
 pitch: >-
     TBA
 image_attribution: Hugo Costa
