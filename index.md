@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec Template 2023
+title: Global AppSec Lisbon 2024
 layout: event-x
 
 ---
