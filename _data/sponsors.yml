@@ -23,3 +23,9 @@
   url: https://www.armosec.io/
   backgroundSize: 125px
   type: Silver
+- logo: /assets/images/sponsors/PhoenixSecurity.svg
+  name: Phoenix Security
+  url: https://phoenix.security/
+  backgroundSize: 125px
+  type: Silver
+  
