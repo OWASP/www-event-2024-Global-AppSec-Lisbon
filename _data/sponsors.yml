@@ -1,5 +1,20 @@
-#- logo: /assets/images/sponsors/your-logo-here1.png
-#  name:
-#  url: https://dc.globalappsec.org/assets/files/AppSec_DC_sponsorship.pdf
-#  backgroundSize: 125px
-#  type: Diamond
+- logo: /assets/images/sponsors/IriusRiskNEWlogo.png
+  name: IriusRisk
+  url: https://www.iriusrisk.com/
+  backgroundSize: 125px
+  type: Diamond
+- logo: /assets/images/sponsors/github_logo.png
+  name: GitHub
+  url: https://github.com/
+  backgroundSize: 125px
+  type: Diamond
+- logo: /assets/images/sponsors/Ox_Security.png
+  name: Ox Security
+  url: https://www.ox.security/
+  backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/Mend.png
+  name: Mend
+  url: https://www.mend.io/
+  backgroundSize: 125px
+  type: Silver
