@@ -28,4 +28,9 @@
   url: https://phoenix.security/
   backgroundSize: 125px
   type: Silver
+- logo: /assets/images/sponsors/EndorLabs.jpeg
+  name: Endor Labs
+  url: https://www.endorlabs.com/
+  backgroundSize: 125px
+  type: Silver
   
