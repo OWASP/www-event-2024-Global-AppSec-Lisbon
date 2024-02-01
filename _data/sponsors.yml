@@ -33,4 +33,9 @@
   url: https://www.endorlabs.com/
   backgroundSize: 125px
   type: Silver
+- logo: /assets/images/sponsors/ApiiroLogo.svg
+  name: Apiiro
+  url: https://apiiro.com/
+  backgroundSize: 125px
+  type: Gold
   
