@@ -38,4 +38,9 @@
   url: https://apiiro.com/
   backgroundSize: 125px
   type: Gold
+- logo: /assets/images/sponsors/Codific_and_Toreon_Logos.png
+  name: Codific and Toreon
+  url: https://codific.com/samm-globalappsec-lisbon/
+  backgroundSize: 125px
+  type: Gold
   
