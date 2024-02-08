@@ -43,4 +43,14 @@
   url: https://codific.com/samm-globalappsec-lisbon/
   backgroundSize: 125px
   type: Gold
+- logo: /assets/images/sponsors/ArmorCode.png
+  name: ArmorCode
+  url: https://www.armorcode.com/
+  backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/corellium-logo-full-dark.png
+  name: Corellium
+  url: https://www.corellium.com/
+  backgroundSize: 125px
+  type: Silver
   
