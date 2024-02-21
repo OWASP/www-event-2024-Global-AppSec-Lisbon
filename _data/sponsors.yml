@@ -63,4 +63,9 @@
   url: https://www.secureflag.com/
   backgroundSize: 125px
   type: Gold
+- logo: /assets/images/sponsors/ZimperiumLogo.jpeg
+  name: Zimperium
+  url: https://www.zimperium.com/
+  backgroundSize: 125px
+  type: Gold
   
