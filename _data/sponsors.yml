@@ -53,4 +53,9 @@
   url: https://www.corellium.com/
   backgroundSize: 125px
   type: Silver
+- logo: /assets/images/sponsors/Jit_Logo.png
+  name: Jit.io
+  url: https://www.jit.io/
+  backgroundSize: 125px
+  type: Gold
   
