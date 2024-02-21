@@ -58,4 +58,9 @@
   url: https://www.jit.io/
   backgroundSize: 125px
   type: Gold
+- logo: /assets/images/sponsors/SecureFlagLogo.png
+  name: SecureFlag
+  url: https://www.secureflag.com/
+  backgroundSize: 125px
+  type: Gold
   
