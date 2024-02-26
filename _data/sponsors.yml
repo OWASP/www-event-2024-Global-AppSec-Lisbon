@@ -68,9 +68,13 @@
   url: https://www.zimperium.com/
   backgroundSize: 125px
   type: Gold
-- logo: /assets/images/sponsorsContrast_Logo.png
+- logo: /assets/images/sponsors/Contrast_Logo.png
   name: Contrast Security
   url: https://www.contrastsecurity.com/
   backgroundSize: 125px
   type: Silver
-  
+- logo: /assets/images/sponsors/Mobb_logo.png
+  name: Mobb Security
+  url: https://mobb.ai/
+  backgroundSize: 125px
+  type: Start-Up
