@@ -68,4 +68,9 @@
   url: https://www.zimperium.com/
   backgroundSize: 125px
   type: Gold
+- logo: /assets/images/sponsorsContrast_Logo.png
+  name: Contrast Security
+  url: https://www.contrastsecurity.com/
+  backgroundSize: 125px
+  type: Silver
   
