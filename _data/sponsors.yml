@@ -78,3 +78,14 @@
   url: https://mobb.ai/
   backgroundSize: 125px
   type: Start-Up
+- logo: /assets/images/sponsors/codesealer-logo-blue.png
+  name: Codesealer
+  url: https://codesealer.com/
+  backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/Scribe.png
+  name: Scribe Security
+  url: https://scribesecurity.com/
+  backgroundSize: 125px
+  type: Start-Up
+  
