@@ -6,8 +6,8 @@
       url : https://owaspglobalappseclisbon2024.sched.com/
     #- title: Keynotes
     #  url : /
-    #- title: Training
-    #  url : /trainings/
+    - title: Training
+      url : https://lisbon.globalappsec.org/trainings/
     # - title: Event Images
     #  url : /media/
     # - title: Training
