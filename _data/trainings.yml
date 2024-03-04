@@ -58,9 +58,6 @@
           Dr. Kim Wuyts is a leading privacy engineering expert with over 15 years of experience in security and privacy. Before joining PwC Belgium as Manager Cyber & Privacy, Kim was a senior researcher at KU Leuven where she led the development and extension of LINDDUN, a popular privacy threat modeling framework. Her mission is to raise privacy awareness and get organizations to embrace privacy engineering best practices. She is a guest lecturer, experienced speaker, and invited keynote at international privacy and security conferences such as OWASP Global AppSec, RSA, Troopers, CPDP, and IAPP DPC. In the last few years, Kim has been delivering privacy awareness and privacy threat modeling training at many events, including academic guest lectures and corporate training.
           Kim is also a co-author of the Threat Modeling Manifesto+Capabilities, program co-chair of the International Workshop on Privacy Engineering (IWPE), and a member of ENISA’s working group on Data Protection Engineering.
       TrainerId: trainer004
-  Title: Practical Privacy by Design - Building secure applications that respect privacy - 2 Day Training
-  URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-  SectionId: sku_IWAHBB  
   - Name: Avi Douglen
       Email: avid@bouncesecurity.com
       Image: /assets/images/trainers/avid_profile.png
@@ -68,6 +65,7 @@
       Biography: >-
           Avi Douglen has been building secure applications for decades, and is *obsessed* with maximizing value output from security efforts. Avi is the founder and CEO of Bounce Security, a boutique consulting agency dedicated to helping developers integrate security efficiently into their workflows. He is a frequent speaker, keynote, and trainer, and has trained thousands of developers to build more secure products.
           AviD is an active contributor to open source communities, including leading the OWASP Israel chapter, creating the incredibly popular AppSec Israel security conference, co-founding the OWASP Threat Modeling project, and currently serving on the OWASP Global Board of Directors. He is also a community moderator on https://Security.StackExchange.com/, and co-authored the Threat Modeling Manifesto+Capabilities https://www.threatmodelingmanifesto.org/.#       TrainerId: trainer_dos#   Title: Practical Privacy by Design - Building secure applications that respect privacy
+  Title:  Practical Privacy by Design - Building Secure Applications that Respect Privacy 
   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
   SectionId: sku_IWAHBB
   Description: >-
