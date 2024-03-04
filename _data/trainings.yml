@@ -58,8 +58,9 @@
           Dr. Kim Wuyts is a leading privacy engineering expert with over 15 years of experience in security and privacy. Before joining PwC Belgium as Manager Cyber & Privacy, Kim was a senior researcher at KU Leuven where she led the development and extension of LINDDUN, a popular privacy threat modeling framework. Her mission is to raise privacy awareness and get organizations to embrace privacy engineering best practices. She is a guest lecturer, experienced speaker, and invited keynote at international privacy and security conferences such as OWASP Global AppSec, RSA, Troopers, CPDP, and IAPP DPC. In the last few years, Kim has been delivering privacy awareness and privacy threat modeling training at many events, including academic guest lectures and corporate training.
           Kim is also a co-author of the Threat Modeling Manifesto+Capabilities, program co-chair of the International Workshop on Privacy Engineering (IWPE), and a member of ENISA’s working group on Data Protection Engineering.
       TrainerId: trainer004
-      Title: Practical Privacy by Design - Building secure applications that respect privacy - 2 Day Training
-    - Name: Avi Douglen
+  Title: Practical Privacy by Design - Building secure applications that respect privacy - 2 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator    
+  - Name: Avi Douglen
       Email: avid@bouncesecurity.com
       Image: /assets/images/trainers/avid_profile.png
       Twitter: Sec_Tigger
