@@ -1,284 +1,295 @@
-  - Type: Training
-   Trainers: 
-     - Name: Rob van der Veer
-       Email: rob@vdveer.net
-       Image: /assets/images/trainers/20230926-Stage-CTOday-cropped.png
-       Twitter: robvanderveer
-       Biography: >-
-           Rob van der Veer is an AI pioneer with 32 years of experience in the AI field, specializing in engineering, security and privacy. He is the lead author of the ISO/IEC 5338 standard on AI lifecycle, co-founder of the digital bridge for security standards OpenCRE.org, and creator of the OWASP AI Exchange - open sourcing the global discussion on AI security. He is advisor to ENISA and deeply involved in international standardization through different roles in ISO/IEC and CEN/CENELEC, including JTC21/WG5 - working on the security standardization request for the AI Act. At Software Improvement Group, Rob is senior director of AI, security, and privacy, working with organizations around the world on these topics.
-       TrainerId: trainer001
-   Title: Master AI Security - 1 Day Training
-   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-   SectionId: sku_IWAHBB
-   Description: >-
-       This training is a unique opportunity to become proficient in the intricate and rapidly evolving field of AI security.
-        Soon, nearly every digital organization will be deploying systems that incorporate AI. This presents a significant challenge, regardless of whether you are an AppSec specialist, a developer, or a red teamer. What are your responsibilities? What constitutes the new AI attack surface, and what threats emerge from it? What measures can you take to mitigate these emerging risks?
+- Type: Training
+  Trainers: 
+    - Name: Rob van der Veer
+      Email: rob@vdveer.net
+      Image: /assets/images/trainers/20230926-Stage-CTOday-cropped.png
+      Twitter: robvanderveer
+      Biography: >-
+          Rob van der Veer is an AI pioneer with 32 years of experience in the AI field, specializing in engineering, security and privacy. He is the lead author of the ISO/IEC 5338 standard on AI lifecycle, co-founder of the digital bridge for security standards OpenCRE.org, and creator of the OWASP AI Exchange - open sourcing the global discussion on AI security. He is advisor to ENISA and deeply involved in international standardization through different roles in ISO/IEC and CEN/CENELEC, including JTC21/WG5 - working on the security standardization request for the AI Act. At Software Improvement Group, Rob is senior director of AI, security, and privacy, working with organizations around the world on these topics.
+      TrainerId: trainer001
+  Title: Master AI Security - 1 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
+  SectionId: sku_IWAHBB
+  Description: >-
+      This training is a unique opportunity to become proficient in the intricate and rapidly evolving field of AI security.
+      Soon, nearly every digital organization will be deploying systems that incorporate AI. This presents a significant challenge, regardless of whether you are an AppSec specialist, a developer, or a red teamer. What are your responsibilities? What constitutes the new AI attack surface, and what threats emerge from it? What measures can you take to mitigate these emerging risks?
 
-        This one-day intensive training program will equip you with the knowledge to tackle these AI-related challenges effectively, enabling you to apply what you learn immediately. Starting with a foundational overview of AI, the course then delivers an exhaustive exploration of the distinctive vulnerabilities AI introduces, the possible attack vectors, and the most current strategies to counteract threats like prompt injection, data poisoning, model theft, evasion, and more. Through practical exercises, you will gain hands-on experience in enacting strong security measures, attacking AI systems, conducting threat modelling on AI, and targeted vulnerability assessments for AI applications.
-        By day's end, you will possess a thorough comprehension of the core principles and techniques critical to strengthening AI systems. You will have gained practical insights and the confidence to implement cutting-edge AI security measures.
- - Type: Training
-   Trainers: 
-     - Name: Paulo Silva
-       Email: Paulo.silva@owasp.org
-       Image: /assets/images/trainers/avatar-6.jpg
-       Twitter: PauloSilva1955
-       Biography: >-
-           While leading and co-authoring the OWASP API Top 10 Project, Paulo is a security practitioner with a solid background in software development who has spent the last decade breaking software and helping organizations improve their security posture. In addition, Paulo participated in writing several Secure Coding Practices documents and delivered talks, webinars, articles, and workshops on secure coding and API security.
-       TrainerId: trainer002
-   Title: The Dark Side of APIs - the Attacker way to protect software - 1 Day Training
-   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-   SectionId: sku_IWAHBB
-   Description: >-
-        Following a hands-on approach, attendees will be guided into exploiting the ten most common API security risks according to the OWASP API Security Top 10. The security issues will be discussed in-depth, also covering the mitigation. API protocol-specific security issues will be addressed and discussed to cover the most common API protocols. Training sessions are delivered by a security practitioner and OWASP project co-leader.
- - Type: Training
-   Trainers: 
-     - Name: Dr. Michael Loadenthal
-       Email: loadenml@ucmail.uc.edu
-       Image: /assets/images/trainers/loadenthal_headshot (1).png
-       LinkedIn: michaelloadenthal
-       Biography: >-
-           Michael Loadenthal, Ph.D., is as a Professor of Research, with the Center for Cyber Strategy and Policy, within the School of Public and International Affairs at the University of Cincinnati, and the founder and Executive Director of the Prosecution Project which tracks political violence occurring in the US. Dr. Loadenthal serves as a security researcher, trainer, consultant, and subject matter expert focused on political violence, social movements, extremism, and technology. He routinely trains and advises NGOs, journalists, activists, elected officials, and other high-risk individuals in digital-operational security, risk assessment, threat modeling, and open-source intelligence (OSINT) investigative techniques. His research focuses on North American far-right digital networks and other extremist social movements, and has involved research and practice on five continents. 
+      This one-day intensive training program will equip you with the knowledge to tackle these AI-related challenges effectively, enabling you to apply what you learn immediately. Starting with a foundational overview of AI, the course then delivers an exhaustive exploration of the distinctive vulnerabilities AI introduces, the possible attack vectors, and the most current strategies to counteract threats like prompt injection, data poisoning, model theft, evasion, and more. Through practical exercises, you will gain hands-on experience in enacting strong security measures, attacking AI systems, conducting threat modelling on AI, and targeted vulnerability assessments for AI applications.
+      By day's end, you will possess a thorough comprehension of the core principles and techniques critical to strengthening AI systems. You will have gained practical insights and the confidence to implement cutting-edge AI security measures.
+- Type: Training
+  Trainers: 
+    - Name: Paulo Silva
+      Email: Paulo.silva@owasp.org
+      Image: /assets/images/trainers/avatar-6.jpg
+      Twitter: PauloSilva1955
+      Biography: >-
+          While leading and co-authoring the OWASP API Top 10 Project, Paulo is a security practitioner with a solid background in software development who has spent the last decade breaking software and helping organizations improve their security posture. In addition, Paulo participated in writing several Secure Coding Practices documents and delivered talks, webinars, articles, and workshops on secure coding and API security.
+      TrainerId: trainer002
+  Title: The Dark Side of APIs - the Attacker way to protect software - 1 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
+  SectionId: sku_IWAHBB
+  Description: >-
+      Following a hands-on approach, attendees will be guided into exploiting the ten most common API security risks according to the OWASP API Security Top 10. The security issues will be discussed in-depth, also covering the mitigation. API protocol-specific security issues will be addressed and discussed to cover the most common API protocols. Training sessions are delivered by a security practitioner and OWASP project co-leader.
+- Type: Training
+  Trainers: 
+    - Name: Dr. Michael Loadenthal
+      Email: loadenml@ucmail.uc.edu
+      Image: /assets/images/trainers/loadenthal_headshot (1).png
+      LinkedIn: michaelloadenthal
+      Biography: >-
+          Michael Loadenthal, Ph.D., is as a Professor of Research, with the Center for Cyber Strategy and Policy, within the School of Public and International Affairs at the University of Cincinnati, and the founder and Executive Director of the Prosecution Project which tracks political violence occurring in the US. Dr. Loadenthal serves as a security researcher, trainer, consultant, and subject matter expert focused on political violence, social movements, extremism, and technology. He routinely trains and advises NGOs, journalists, activists, elected officials, and other high-risk individuals in digital-operational security, risk assessment, threat modeling, and open-source intelligence (OSINT) investigative techniques. His research focuses on North American far-right digital networks and other extremist social movements, and has involved research and practice on five continents. 
 
-            Dr. Loadenthal supports a variety of ongoing research projects including the Transcultural Conflict and Violence Initiative (Georgia State University), Movement Engaged Research Hub (George Mason University), Bridging Divides Initiative (Princeton University), Accelerationism Research Consortium (Middlebury Institute of International Studies), and the Global Network on Extremism and Technology (Kings College London). He is a frequent publisher of his work, which has been featured in books, journals, and news outlets including, The Washington Post, New York Times, The Guardian, Al Jazeera, the Intercept, and USA Today. His latest book, Prosecuting Political Violence (2021) explores the criminal justice system’s treatment of terrorism, extremism, hate crimes, and political protest. Dr. Loadenthal holds a Ph.D. in Conflict Analysis (George Mason University), and a Master’s degree from the Centre for the Study of Terrorism and Political Violence (University of St. Andrews), and has held teaching appointments at Georgetown University, George Mason University, Miami University, University of Cincinnati, the University of Malta, and several correctional institutions.
-       TrainerId: trainer003
-   Title: Intersectional Threat Modeling for Identifying, Ranking, and Mitigating Offline Threats, Risks, and Dangers - 1 Day Training
-   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-   SectionId: sku_IWAHBB
-   Description: >-
-        This workshop introduces a logic, methodology, and toolset for intersectional, risk-centric, attack-driven threat modeling, tailored to both technical (i.e., computer/network-based) and non-technical practitioners (e.g., journalists, human rights defenders). This approach focuses on promoting proactive harm reduction through a focus on the context-sensitive aspects of human, organizational, and networked digital systems. Backed by dozens of case studies and more than a decade of direct application, this session will help enumerate how ‘technical’ and ‘non-technical’ users can benefit from the logic and methods of threat modeling. 
+          Dr. Loadenthal supports a variety of ongoing research projects including the Transcultural Conflict and Violence Initiative (Georgia State University), Movement Engaged Research Hub (George Mason University), Bridging Divides Initiative (Princeton University), Accelerationism Research Consortium (Middlebury Institute of International Studies), and the Global Network on Extremism and Technology (Kings College London). He is a frequent publisher of his work, which has been featured in books, journals, and news outlets including, The Washington Post, New York Times, The Guardian, Al Jazeera, the Intercept, and USA Today. His latest book, Prosecuting Political Violence (2021) explores the criminal justice system’s treatment of terrorism, extremism, hate crimes, and political protest. Dr. Loadenthal holds a Ph.D. in Conflict Analysis (George Mason University), and a Master’s degree from the Centre for the Study of Terrorism and Political Violence (University of St. Andrews), and has held teaching appointments at Georgetown University, George Mason University, Miami University, University of Cincinnati, the University of Malta, and several correctional institutions.
+      TrainerId: trainer003
+  Title: Intersectional Threat Modeling for Identifying, Ranking, and Mitigating Offline Threats, Risks, and Dangers - 1 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
+  SectionId: sku_IWAHBB
+  Description: >-
+      This workshop introduces a logic, methodology, and toolset for intersectional, risk-centric, attack-driven threat modeling, tailored to both technical (i.e., computer/network-based) and non-technical practitioners (e.g., journalists, human rights defenders). This approach focuses on promoting proactive harm reduction through a focus on the context-sensitive aspects of human, organizational, and networked digital systems. Backed by dozens of case studies and more than a decade of direct application, this session will help enumerate how ‘technical’ and ‘non-technical’ users can benefit from the logic and methods of threat modeling. 
 
-        Participants will be challenged to consider their own threat environment and to actively engage with the process through in-session brainstorming activities, risk assessments, and other illustrative exercises. This workshop does not require any technical know-how, but participants should come prepared to investigate and explore their own security challenges. Through a combination of traditional lecture, applied discussion, and hands-on activities participants will engage directly with the process of intersectional threat modeling.
- - Type: Training
-   Trainers: 
-     - Name: Kim Wuyts
-       Email: wuyts.kim@gmail.com
-       Image: /assets/images/trainers/kim_wuyts.jpg
-       Twitter: Wuytski
-       Biography: >-
-           Dr. Kim Wuyts is a leading privacy engineering expert with over 15 years of experience in security and privacy. Before joining PwC Belgium as Manager Cyber & Privacy, Kim was a senior researcher at KU Leuven where she led the development and extension of LINDDUN, a popular privacy threat modeling framework. Her mission is to raise privacy awareness and get organizations to embrace privacy engineering best practices. She is a guest lecturer, experienced speaker, and invited keynote at international privacy and security conferences such as OWASP Global AppSec, RSA, Troopers, CPDP, and IAPP DPC. In the last few years, Kim has been delivering privacy awareness and privacy threat modeling training at many events, including academic guest lectures and corporate training.
-           Kim is also a co-author of the Threat Modeling Manifesto+Capabilities, program co-chair of the International Workshop on Privacy Engineering (IWPE), and a member of ENISA’s working group on Data Protection Engineering.
-       TrainerId: trainer004
-       Title: Practical Privacy by Design - Building secure applications that respect privacy - 2 Day Training
-      -Name: Avi Douglen
-       Email: avid@bouncesecurity.com
-       Image: /assets/images/trainers/avid_profile.png
-       Twitter: Sec_Tigger
-       Biography: >-
-            Avi Douglen has been building secure applications for decades, and is *obsessed* with maximizing value output from security efforts. Avi is the founder and CEO of Bounce Security, a boutique consulting agency dedicated to helping developers integrate security efficiently into their workflows. He is a frequent speaker, keynote, and trainer, and has trained thousands of developers to build more secure products.
-            AviD is an active contributor to open source communities, including leading the OWASP Israel chapter, creating the incredibly popular AppSec Israel security conference, co-founding the OWASP Threat Modeling project, and currently serving on the OWASP Global Board of Directors. He is also a community moderator on https://Security.StackExchange.com/, and co-authored the Threat Modeling Manifesto+Capabilities https://www.threatmodelingmanifesto.org/.#       TrainerId: trainer_dos#   Title: Practical Privacy by Design - Building secure applications that respect privacy
-   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-   SectionId: sku_IWAHBB
-   Description: >-
-        Privacy is hot! Now is the time to embrace this in-demand skillset. Believe it or not, privacy will even strengthen your security posture. Join this course now to learn about privacy engineering essentials and practical privacy-by-design approaches. With the lessons we’ll teach you, you’ll be able to effectively integrate privacy in existing security practices!
+      Participants will be challenged to consider their own threat environment and to actively engage with the process through in-session brainstorming activities, risk assessments, and other illustrative exercises. This workshop does not require any technical know-how, but participants should come prepared to investigate and explore their own security challenges. Through a combination of traditional lecture, applied discussion, and hands-on activities participants will engage directly with the process of intersectional threat modeling.
+- Type: Training
+  Trainers: 
+    - Name: Kim Wuyts
+      Email: wuyts.kim@gmail.com
+      Image: /assets/images/trainers/kim_wuyts.jpg
+      Twitter: Wuytski
+      Biography: >-
+          Dr. Kim Wuyts is a leading privacy engineering expert with over 15 years of experience in security and privacy. Before joining PwC Belgium as Manager Cyber & Privacy, Kim was a senior researcher at KU Leuven where she led the development and extension of LINDDUN, a popular privacy threat modeling framework. Her mission is to raise privacy awareness and get organizations to embrace privacy engineering best practices. She is a guest lecturer, experienced speaker, and invited keynote at international privacy and security conferences such as OWASP Global AppSec, RSA, Troopers, CPDP, and IAPP DPC. In the last few years, Kim has been delivering privacy awareness and privacy threat modeling training at many events, including academic guest lectures and corporate training.
+          Kim is also a co-author of the Threat Modeling Manifesto+Capabilities, program co-chair of the International Workshop on Privacy Engineering (IWPE), and a member of ENISA’s working group on Data Protection Engineering.
+      TrainerId: trainer004
+      Title: Practical Privacy by Design - Building secure applications that respect privacy - 2 Day Training
+    - Name: Avi Douglen
+      Email: avid@bouncesecurity.com
+      Image: /assets/images/trainers/avid_profile.png
+      Twitter: Sec_Tigger
+      Biography: >-
+          Avi Douglen has been building secure applications for decades, and is *obsessed* with maximizing value output from security efforts. Avi is the founder and CEO of Bounce Security, a boutique consulting agency dedicated to helping developers integrate security efficiently into their workflows. He is a frequent speaker, keynote, and trainer, and has trained thousands of developers to build more secure products.
+          AviD is an active contributor to open source communities, including leading the OWASP Israel chapter, creating the incredibly popular AppSec Israel security conference, co-founding the OWASP Threat Modeling project, and currently serving on the OWASP Global Board of Directors. He is also a community moderator on https://Security.StackExchange.com/, and co-authored the Threat Modeling Manifesto+Capabilities https://www.threatmodelingmanifesto.org/.#       TrainerId: trainer_dos#   Title: Practical Privacy by Design - Building secure applications that respect privacy
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
+  SectionId: sku_IWAHBB
+  Description: >-
+      Privacy is hot! Now is the time to embrace this in-demand skillset. Believe it or not, privacy will even strengthen your security posture. Join this course now to learn about privacy engineering essentials and practical privacy-by-design approaches. With the lessons we’ll teach you, you’ll be able to effectively integrate privacy in existing security practices!
 
-        Consumers are becoming more privacy-aware and expect privacy-oriented products. Likewise, globally emerging data protection legislations are forcing companies to integrate a technical approach for privacy into system design. With ever higher demands for privacy engineering, privacy by design, privacy-respecting systems - and increasing impact from the lack thereof - security teams are hard pressed to keep up with these emerging requirements and often feel like there is a substantial and growing skills gap.
+      Consumers are becoming more privacy-aware and expect privacy-oriented products. Likewise, globally emerging data protection legislations are forcing companies to integrate a technical approach for privacy into system design. With ever higher demands for privacy engineering, privacy by design, privacy-respecting systems - and increasing impact from the lack thereof - security teams are hard pressed to keep up with these emerging requirements and often feel like there is a substantial and growing skills gap.
 
-        Traditional security approaches do not typically focus on this aspect, leaving individuals at risk. Fortunately, privacy by design does not have to be difficult, and in fact, can be nicely aligned with secure design best practices. Incorporating privacy into security with a proactive approach is essential, and can even become a force multiplier for more secure systems!
+      Traditional security approaches do not typically focus on this aspect, leaving individuals at risk. Fortunately, privacy by design does not have to be difficult, and in fact, can be nicely aligned with secure design best practices. Incorporating privacy into security with a proactive approach is essential, and can even become a force multiplier for more secure systems!
 
-        This interactive hands-on training will introduce you to common privacy goals, and how these often fail. You'll learn about core privacy engineering fundamentals and get hands-on experience identifying and tackling potential privacy gaps and weaknesses, by leveraging by-design approaches such as threat modeling. As privacy shouldn’t be tackled in isolation, you will learn how to build privacy into the core of the software design and development process, aligned with security practices, showing how to gain increased efficiency and effectiveness in both domains.
+      This interactive hands-on training will introduce you to common privacy goals, and how these often fail. You'll learn about core privacy engineering fundamentals and get hands-on experience identifying and tackling potential privacy gaps and weaknesses, by leveraging by-design approaches such as threat modeling. As privacy shouldn’t be tackled in isolation, you will learn how to build privacy into the core of the software design and development process, aligned with security practices, showing how to gain increased efficiency and effectiveness in both domains.
 
-        The course will cover these main topics
-        - Introduction to Privacy Essentials
-        - Architectural data mapping
-        - Tracing the functionality
-        - Overview of Privacy Threat Modeling
-        - Analyzing for Privacy Threats
-        - Privacy controls and mitigation strategies
-        - Putting it all together - Full Privacy Process
+      The course will cover these main topics
+      - Introduction to Privacy Essentials
+      - Architectural data mapping
+      - Tracing the functionality
+      - Overview of Privacy Threat Modeling
+      - Analyzing for Privacy Threats
+      - Privacy controls and mitigation strategies
+      - Putting it all together - Full Privacy Process
 
-        Each of these interactive modules will teach you both the technical skills and social aspects essential for successful privacy engineering, explain how they align with corresponding security practices, and highlight how these privacy skills can strengthen your security posture. With plenty of hands-on experience through a set of exercises, class discussions, and productive collaboration, you'll gain confidence to improve the privacy posture of your system using established design techniques, so you can take these practical skills back to your security practice.
- - Type: Training
-   Trainers: 
-     - Name: Josh Grossman
-       Email: joshcgrossman@gmail.com
-       Image: /assets/images/trainers/Josh_headshot_4 (4).jpg
-       Twitter: JoshCGrossman
-       Biography: >-
-           Josh Grossman has worked as a consultant in IT and Application Security and Risk for 15 years now, as well as a Software Developer. This has given him an in-depth understanding of how to manage the balance between business needs, developer needs and security needs which goes into a successful software security programme.
+      Each of these interactive modules will teach you both the technical skills and social aspects essential for successful privacy engineering, explain how they align with corresponding security practices, and highlight how these privacy skills can strengthen your security posture. With plenty of hands-on experience through a set of exercises, class discussions, and productive collaboration, you'll gain confidence to improve the privacy posture of your system using established design techniques, so you can take these practical skills back to your security practice.
+- Type: Training
+  Trainers: 
+    - Name: Josh Grossman
+      Email: joshcgrossman@gmail.com
+      Image: /assets/images/trainers/Josh_headshot_4 (4).jpg
+      Twitter: JoshCGrossman
+      Biography: >-
+          Josh Grossman has worked as a consultant in IT and Application Security and Risk for 15 years now, as well as a Software Developer. This has given him an in-depth understanding of how to manage the balance between business needs, developer needs and security needs which goes into a successful software security programme.
 
-            Josh is currently CTO for Bounce Security where he helps clients improve and get better value from their application security processes and provides specialist application security advice. As well as working at Bounce, has also spent time working as a consultant and team leader for various other leading security consultancies.
+          Josh is currently CTO for Bounce Security where he helps clients improve and get better value from their application security processes and provides specialist application security advice. As well as working at Bounce, has also spent time working as a consultant and team leader for various other leading security consultancies.
 
-            He has provided guidance and support to clients including multi-national software development organizations, Fortune 500 companies as well as early and mid-stage start-ups. His consultancy work has led him to work, speak and deliver training both locally and worldwide including privately for ISACA and Manicode and publicly for OWASP's Global AppSec conferences and at Black Hat USA.
+          He has provided guidance and support to clients including multi-national software development organizations, Fortune 500 companies as well as early and mid-stage start-ups. His consultancy work has led him to work, speak and deliver training both locally and worldwide including privately for ISACA and Manicode and publicly for OWASP's Global AppSec conferences and at Black Hat USA.
 
-            In his spare time, he co-leads the OWASP Application Security Verification Standard project and is on the OWASP Israel chapter board. He was also recognized as a Key Contributor for the OWASP Proactive Controls project and has also contributed to the OWASP Top 10 Risks project and the OWASP JuiceShop project.
-   TrainerId: trainer006
-   Title: Building a High-Value AppSec Scanning Programme - 2 Day Training
-   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-   SectionId: sku_IWAHBB
-   Description: >-
-        You bought the application security tools, you have the findings, but now what? Many organisations find themselves drowning in “possible vulnerabilities”, struggling to streamline their processes and not sure how to measure their progress.
+          In his spare time, he co-leads the OWASP Application Security Verification Standard project and is on the OWASP Israel chapter board. He was also recognized as a Key Contributor for the OWASP Proactive Controls project and has also contributed to the OWASP Top 10 Risks project and the OWASP JuiceShop project.
+  TrainerId: trainer006
+  Title: Building a High-Value AppSec Scanning Programme - 2 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
+  SectionId: sku_IWAHBB
+  Description: >-
+      You bought the application security tools, you have the findings, but now what? Many organisations find themselves drowning in “possible vulnerabilities”, struggling to streamline their processes and not sure how to measure their progress.
 
-        If you are involved in using SAST, DAST or SCA tools in your organisation, these may be familiar feelings to you. In this course you will learn how to address these problems and more (in a vendor-neutral way), with topics including
+      If you are involved in using SAST, DAST or SCA tools in your organisation, these may be familiar feelings to you. In this course you will learn how to address these problems and more (in a vendor-neutral way), with topics including
 
-        What to expect from these tools?
-        Customising and optimising these tools effectively
-        Building tool processes which fit your business
-        Automating workflows using CI/CD without slowing it down.
-        Showing the value and improvements you are making
-        Faster and easier triage through smart filtering
-        How to focus on fixing what matters and cut down noise
-        Techniques for various alternative forms of remediation
-        Comparison of the different tool types covered.
+      What to expect from these tools?
+      Customising and optimising these tools effectively
+      Building tool processes which fit your business
+      Automating workflows using CI/CD without slowing it down.
+      Showing the value and improvements you are making
+      Faster and easier triage through smart filtering
+      How to focus on fixing what matters and cut down noise
+      Techniques for various alternative forms of remediation
+      Comparison of the different tool types covered.
 
-        To bring the course to life and let you apply what you learn, you will work in teams on table-top exercises where you design processes to cover specific scenarios, explain and justify your decisions to simulated stakeholders and practice prioritising your remediation efforts.
- 
-        For these exercises, you will work based on specially designed process templates (which we will provide) which you can use afterwards to apply these improvements within your own organisation.
- 
-        Be ready to work in a group, take part in discussions and present your findings and leave the course with clear strategies and ideas on how to get less stress and more value from these tools.
- - Type: Training
-   Trainers: 
-     - Name: Adam Shostack
-       Email: submittable@informedsecurity.com
-       Image: /assets/images/trainers/Adam-Shostack-lg.jpg
-       Twitter: adamshostack
-       Biography: >-
-           Adam Shostack is a leading expert in threat modeling, and the author of "Threats What Every Engineer Should Learn from Star Wars" and "Threat Modeling, Designing for Security."
-   TrainerId: trainer007
-   Title: Adam Shostack's Threat Modeling Intensive - 2 Day Training
-   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-   SectionId: sku_IWAHBB
-   Description: >-
-        This hands-on, interactive class will focus on learning to threat model by executing each of the steps. Students will start with a guided threat modeling exercise, and we'll then iterate and break down the skills they're learning in more depth. We'll progressing through the Four Questions of Threat Modeling- what are we working on, what can go wrong, what are we going to do about it and did we do a good job. This is capped off with an end-to-end exercise that brings the skills together.
- - Type: Training
-   Trainers: 
-     - Name: Jim Manico
-       Email: submittable@informedsecurity.com
-       Image: /assets/images/trainers/Jim (1).jpg
-       Twitter: AllAroundTheWorld
-       Biography: >-
-           Jim Manico is the founder of Manicode Security, where he trains software developers on secure coding and security engineering. He is also an investor/advisor for 10Security, Aiya, MergeBase, Nucleus Security, KSOC, and Inspectiv. Jim is a frequent speaker on secure software practices, is a member of the Java Champion community, and is the author of "Iron-Clad Java - Building Secure Web Applications" from Oracle Press. Jim also volunteers for the OWASP foundation as the project lead for the OWASP Application Security Verification Standard and the OWASP Cheatsheet Series. For more information, see https://www.linkedin.com/in/jmanico.
-   TrainerId: trainer008
-   Title: Application Security Training with Jim Manico - 3 Day Training
-   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-   SectionId: sku_IWAHBB
-   Description: >-
-       Core Modules
-       00-00 Introduction to Application Security  - Goals and Threats in AppSec
-       00-01 Input Validation Basics - Allowlist Validation, Safe Redirects
-       00-02 HTTP Security Basics - Response/Request Headers, Verbs, Secure Transport Basics
-       00-03 SOP and CORS - Same-Origin Policy, Cross-Origin Resource Sharing Security
-       00-04 API and REST Security - REST Design, XML, XXE, JSON, API Access Control
-       00-05 Microservice Security -  Security Architectures in Microservices
-       00-06 JSON Web Tokens- Addressing JWT Security Challenges
-       00-07 SQL and Other Injections - Parameterized Queries, Secure Database Configurations, Command Injection
-       00-08 Cross-Site Request Forgery -  CSRF Defenses for Various Architectures
-       00-09 File Upload and File I/O Security - Secure File Upload, File I/O Security
-       00-10 Deserialization Security -  Safe Deserialization Practices
-       00-11 Artificial Intelligence Security - Securing AI Implementations, Full Course
-       00-12 Third-Party Library Security Management - Ensuring Third-Party Library Security
-       00-13 Introduction to Cloud Security -  Basics of Cloud Security Management
-       00-14 Introduction to iOS and Android Security - Mobile Security Fundamentals
+      To bring the course to life and let you apply what you learn, you will work in teams on table-top exercises where you design processes to cover specific scenarios, explain and justify your decisions to simulated stakeholders and practice prioritising your remediation efforts.
 
-       Standards
-       01-00 OWASP Top Ten - Top Ten Web Security Risks
-       01-01 Introduction to GDPR -  European Data Privacy Law
-       01-02 OWASP ASVS -  Comprehensive Secure Coding Standard
-       01-03 OWASP Top Ten Proactive Controls -  Web Security Defense Categories
-       01-04 PCI Secure SDLC Standard - Credit Card SDLC Requirements
+      For these exercises, you will work based on specially designed process templates (which we will provide) which you can use afterwards to apply these improvements within your own organisation.
 
-       User Interface Security
-       02-00 XSS Defense -  Client-Side Web Security
-       02-01 Content Security Policy - Advanced Client-Side Web Security
-       02-02 Content Spoofing and HTML Hacking -  HTML Client-Side Injection Attacks
-       02-03 React Security -  Secure React Application Development
-       02-04 Vue.js Security - Secure Vue.js Application Development
-       02-05 Angular and AngularJS Security - Secure Angular Application Development
-       02-06 Clickjacking - UI Redress Attack Defense
+      Be ready to work in a group, take part in discussions and present your findings and leave the course with clear strategies and ideas on how to get less stress and more value from these tools.
+- Type: Training
+  Trainers: 
+    - Name: Adam Shostack
+      Email: submittable@informedsecurity.com
+      Image: /assets/images/trainers/Adam-Shostack-lg.jpg
+      Twitter: adamshostack
+      Biography: >-
+          Adam Shostack is a leading expert in threat modeling, and the author of <strong>Threats: What Every Engineer Should Learn from Star Wars</strong> and <strong>Threat Modeling, Designing for Security</strong>.
+  TrainerId: trainer007
+  Title: Adam Shostack's Threat Modeling Intensive - 2 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
+  SectionId: sku_IWAHBB
+  Description: >-
+      This hands-on, interactive class will focus on learning to threat model by executing each of the steps. Students will start with a guided threat modeling exercise, 
+      and we'll then iterate and break down the skills they're learning in more depth. We'll progressing through the Four Questions of Threat Modeling- what are we working 
+      on, what can go wrong, what are we going to do about it and did we do a good job. This is capped off with an end-to-end exercise that brings the skills together.
+- Type: Training
+  Trainers: 
+    - Name: Jim Manico
+      Email: submittable@informedsecurity.com
+      Image: /assets/images/trainers/Jim (1).jpg
+      Twitter: AllAroundTheWorld
+      Biography: >-
+          Jim Manico is the founder of Manicode Security, where he trains software developers on secure coding and security engineering. He is also an 
+          investor/advisor for 10Security, Aiya, MergeBase, Nucleus Security, KSOC, and Inspectiv. Jim is a frequent speaker on secure software practices, 
+          is a member of the Java Champion community, and is the author of <strong>Iron-Clad Java - Building Secure Web Applications</strong> from Oracle Press. Jim also 
+          volunteers for the OWASP foundation as the project lead for the OWASP Application Security Verification Standard and the OWASP Cheatsheet Series. 
+          For more information, see https://www.linkedin.com/in/jmanico.
+  TrainerId: trainer008
+  Title: Application Security Training with Jim Manico - 3 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
+  SectionId: sku_IWAHBB
+  Description: >-
+      Core Modules
+      00-00 Introduction to Application Security  - Goals and Threats in AppSec
+      00-01 Input Validation Basics - Allowlist Validation, Safe Redirects
+      00-02 HTTP Security Basics - Response/Request Headers, Verbs, Secure Transport Basics
+      00-03 SOP and CORS - Same-Origin Policy, Cross-Origin Resource Sharing Security
+      00-04 API and REST Security - REST Design, XML, XXE, JSON, API Access Control
+      00-05 Microservice Security -  Security Architectures in Microservices
+      00-06 JSON Web Tokens- Addressing JWT Security Challenges
+      00-07 SQL and Other Injections - Parameterized Queries, Secure Database Configurations, Command Injection
+      00-08 Cross-Site Request Forgery -  CSRF Defenses for Various Architectures
+      00-09 File Upload and File I/O Security - Secure File Upload, File I/O Security
+      00-10 Deserialization Security -  Safe Deserialization Practices
+      00-11 Artificial Intelligence Security - Securing AI Implementations, Full Course
+      00-12 Third-Party Library Security Management - Ensuring Third-Party Library Security
+      00-13 Introduction to Cloud Security -  Basics of Cloud Security Management
+      00-14 Introduction to iOS and Android Security - Mobile Security Fundamentals
 
-       Identity & Access Management
-       03-01 Authentication Best Practices - Web Authentication Practices
-       03-02 Session Management Best Practices - Web Session Management Practices
-       03-03 Multi-Factor Authentication - NIST SP-800-63 Compliant MFA Implementation
-       03-04 Secure Password Policy and Storage - Secure User Password Policy and Storage
-       03-05 Access Control Design - ABAC/Capabilities-Based Access Control
-       03-06 OAuth2 Security - OAuth2 Authorization Protocol
-       03-07 OpenID Connect Security - OpenID Connect Federation Protocol
+      Standards
+      01-00 OWASP Top Ten - Top Ten Web Security Risks
+      01-01 Introduction to GDPR -  European Data Privacy Law
+      01-02 OWASP ASVS -  Comprehensive Secure Coding Standard
+      01-03 OWASP Top Ten Proactive Controls -  Web Security Defense Categories
+      01-04 PCI Secure SDLC Standard - Credit Card SDLC Requirements
 
-       Crypto Modules
-       04-00 Secrets Management - Key and Credential Storage Strategies
-       04-01 HTTPS/TLS Best Practices - Transport Security Introduction
-       04-02 Cryptography Fundamentals - Part 1 - Terminology, Steganography, Attacks, Kerchoff's Principle, PFC
-       04-03 Cryptography Fundamentals - Part 2 - Hash Functions, Symmetric Cryptography, Randomness, Digital Signatures
+      User Interface Security
+      02-00 XSS Defense -  Client-Side Web Security
+      02-01 Content Security Policy - Advanced Client-Side Web Security
+      02-02 Content Spoofing and HTML Hacking -  HTML Client-Side Injection Attacks
+      02-03 React Security -  Secure React Application Development
+      02-04 Vue.js Security - Secure Vue.js Application Development
+      02-05 Angular and AngularJS Security - Secure Angular Application Development
+      02-06 Clickjacking - UI Redress Attack Defense
 
-       Process
-       05-00 DevOps Best Practices - DevOps and DevSecOps with a CD/CI Focus
-       05-01 Secure SDLC and AppSec Management - Managing Secure Software Processes
+      Identity & Access Management
+      03-01 Authentication Best Practices - Web Authentication Practices
+      03-02 Session Management Best Practices - Web Session Management Practices
+      03-03 Multi-Factor Authentication - NIST SP-800-63 Compliant MFA Implementation
+      03-04 Secure Password Policy and Storage - Secure User Password Policy and Storage
+      03-05 Access Control Design - ABAC/Capabilities-Based Access Control
+      03-06 OAuth2 Security - OAuth2 Authorization Protocol
+      03-07 OpenID Connect Security - OpenID Connect Federation Protocol
 
-       Additional Topics
-       06-00 User and Helpdesk Awareness Training - Security Awareness for Non-Technical Staff
-       06-01 Social Engineering for Developers - Developer Protection Against Social Engineering
-       06-02 Application Layer Intrusion Detection - Detecting App Layer Attacks
-       06-03 Threat Modeling Fundamentals - Security Design via Threat Modeling
-       06-04 Forms and Workflows Security - Secure Handling of Complex Forms
-       06-05 Java 8/9/10/11/12/13+ Security Controls - Java Security Advances
-       06-06 Logging and Monitoring Security - Security-Focused Logging
-       06-07 Subdomain Takeover - Preventing Subdomain Takeover Scenarios
-       06-08 Laravel and PHP Security - Focus on PHP Security
+      Crypto Modules
+      04-00 Secrets Management - Key and Credential Storage Strategies
+      04-01 HTTPS/TLS Best Practices - Transport Security Introduction
+      04-02 Cryptography Fundamentals - Part 1 - Terminology, Steganography, Attacks, Kerchoff's Principle, PFC
+      04-03 Cryptography Fundamentals - Part 2 - Hash Functions, Symmetric Cryptography, Randomness, Digital Signatures
 
-       Lab Options
-       07-00 Competitive Web Hacking LABS - Hands-on Web Hacking Labs
-       07-01 Competitive API Hacking LABS - Hands-on API Hacking Labs
-       07-02 Secure Coding Knowledge LABS - Hands-on Secure Coding Labs
- - Type: Training
-   Trainers: 
-     - Name: Abraham Aranguren
-       Email: admin@7asecurity.com
-       Image: /assets/images/trainers/profile (1).png
-       Twitter: 7ASecurity
-       Biography: >-
-           After 15 years in itsec and 22 in IT Abraham is now the CEO of 7ASecurity (7asecurity.com), a company specializing in penetration testing of web/mobile apps, infrastructure, code reviews and training. Co-Author of the Mobile, Web and Desktop (Electron) app 7ASecurity courses. Security Trainer at Blackhat USA, HITB, OWASP Global AppSec and many other events. Former senior penetration tester / team lead at Cure53 and Version 1. Creator of “Practical Web Defense”, a hands-on eLearnSecurity attack / defense course, OWASP OWTF project leader, an OWASP flagship project (owtf.org), Major degree and Diploma in Computer Science, some certs: CISSP, OSCP, GWEB, OSWP, CPTS, CEH, MCSE:Security, MCSA:Security, Security+. As a shell scripting fan trained by unix dinosaurs, Abraham wears a proud manly beard. He writes on Twitter as @7asecurity @7a_ @owtfp or https://7asecurity.com/blog. Multiple presentations, pentest reports and recordings can be found at https://7asecurity.com/publications
-   TrainerId: trainer009
-   Title: Hacking Adroid, iOS, and IoT apps by Example - 3 Day Training
-   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-   SectionId: sku_IWAHBB
-   Description: >-
-       This course is the culmination of years of experience gained via practical penetration testing of mobile applications as well as countless hours spent in research. We have structured this course around the OWASP Mobile Security Testing Guide (MSTG) and relevant items of the OWASP Mobile Application Security Verification Standard (MASVS), so this course covers and goes beyond the OWASP Mobile Top Ten. This course provides participants with actionable skills that can be applied immediately from day 1.
- 
-       Please note our courses are 100% hands-on, we do not lecture students with boring bullet points and theories, instead we give you practical challenges and help you solve them, teaching you how to troubleshoot common issues and get the most out of this training. As we try to keep both new and advanced students happy, the course is very comprehensive and we have not met any student able to complete all challenges during the class, therefore training continues after the course through our frequently updated training portal, for which you keep lifetime access, as well as unlimited email support.
- 
-       Get a FREE taste for this training, including access to video recording, slides and vulnerable apps to play with 
-       4 hour workshop - https://7asecurity.com/free-workshop-mobile-practical 
+      Process
+      05-00 DevOps Best Practices - DevOps and DevSecOps with a CD/CI Focus
+      05-01 Secure SDLC and AppSec Management - Managing Secure Software Processes
 
-       Each section starts with a brief introduction to the mobile platform for that section and then continues with a look at static analysis, moves on to dynamic checks finishing off with a nice CTF session to test the skills gained.
+      Additional Topics
+      06-00 User and Helpdesk Awareness Training - Security Awareness for Non-Technical Staff
+      06-01 Social Engineering for Developers - Developer Protection Against Social Engineering
+      06-02 Application Layer Intrusion Detection - Detecting App Layer Attacks
+      06-03 Threat Modeling Fundamentals - Security Design via Threat Modeling
+      06-04 Forms and Workflows Security - Secure Handling of Complex Forms
+      06-05 Java 8/9/10/11/12/13+ Security Controls - Java Security Advances
+      06-06 Logging and Monitoring Security - Security-Focused Logging
+      06-07 Subdomain Takeover - Preventing Subdomain Takeover Scenarios
+      06-08 Laravel and PHP Security - Focus on PHP Security
 
-       Day 1 - Focused specifically on Android. We start with understanding applications and then deep dive into static and dynamic analysis of the applications at hand. This section is packed with hands-on exercises and CTF-style challenges.
+      Lab Options
+      07-00 Competitive Web Hacking LABS - Hands-on Web Hacking Labs
+      07-01 Competitive API Hacking LABS - Hands-on API Hacking Labs
+      07-02 Secure Coding Knowledge LABS - Hands-on Secure Coding Labs
+- Type: Training
+  Trainers: 
+    - Name: Abraham Aranguren
+      Email: admin@7asecurity.com
+      Image: /assets/images/trainers/profile (1).png
+      Twitter: 7ASecurity
+      Biography: >-
+          After 15 years in itsec and 22 in IT Abraham is now the CEO of 7ASecurity (7asecurity.com), a company specializing in penetration testing of web/mobile apps, infrastructure, code reviews and training. Co-Author of the Mobile, Web and Desktop (Electron) app 7ASecurity courses. Security Trainer at Blackhat USA, HITB, OWASP Global AppSec and many other events. Former senior penetration tester / team lead at Cure53 and Version 1. Creator of “Practical Web Defense”, a hands-on eLearnSecurity attack / defense course, OWASP OWTF project leader, an OWASP flagship project (owtf.org), Major degree and Diploma in Computer Science, some certs: CISSP, OSCP, GWEB, OSWP, CPTS, CEH, MCSE:Security, MCSA:Security, Security+. As a shell scripting fan trained by unix dinosaurs, Abraham wears a proud manly beard. He writes on Twitter as @7asecurity @7a_ @owtfp or https://7asecurity.com/blog. Multiple presentations, pentest reports and recordings can be found at https://7asecurity.com/publications
+  TrainerId: trainer009
+  Title: Hacking Adroid, iOS, and IoT apps by Example - 3 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
+  SectionId: sku_IWAHBB
+  Description: >-
+      This course is the culmination of years of experience gained via practical penetration testing of mobile applications as well as countless hours spent in research. We have structured this course around the OWASP Mobile Security Testing Guide (MSTG) and relevant items of the OWASP Mobile Application Security Verification Standard (MASVS), so this course covers and goes beyond the OWASP Mobile Top Ten. This course provides participants with actionable skills that can be applied immediately from day 1.
 
-       Day 2 - Focused on iOS. We start with understanding iOS Architecture and various security precautions in place. We then focus on static and dynamic analysis of the applications at hand. The section is filled with hands-on exercises ending with a CTF for more practical fun.
-       Teaser Video - https://www.youtube.com/watch?v=Re5oqfVkgd4
- - Type: Training
-   Trainers: 
-     - Name: Fabio Cerullo
-       Email: fcerullo@cycubix.com
-       Image: /assets/images/trainers/foto_300dpi (1).jpg
-       Twitter: fcerullo
-       Biography: >-
-           Fabio delivered this training to thousands of developers and security professionals. He also regularly delivers training to technical audiences on various topics such as application security, cloud security, and information security. Here is a reference from one attendee of his courses, "Fabio is an excellent instructor. I was lucky enough to attend one of the courses where he was the instructor. He was able to present the subject matter in an interesting way and at an appropriate pace. He encouraged interaction and was able to answer questions with ease by leveraging his extensive experience in the industry."
+      Please note our courses are 100% hands-on, we do not lecture students with boring bullet points and theories, instead we give you practical challenges and help you solve them, teaching you how to troubleshoot common issues and get the most out of this training. As we try to keep both new and advanced students happy, the course is very comprehensive and we have not met any student able to complete all challenges during the class, therefore training continues after the course through our frequently updated training portal, for which you keep lifetime access, as well as unlimited email support.
 
-            Fabio Cerullo is an official certified instructor for (ISC)², the global leader in information security education and certification. Fabio has over 15 years of experience in the information security field gained across a diverse range of industries ranging from financial and government institutions to software houses and start-ups. He regularly trains professionals from different backgrounds in application security, cloud security, and information security. He is a regular speaker at events organized by OWASP, ISACA and (ISC)² among others; and provides commentary and written articles for specialized industry media (Computer Weekly, Infosecurity Magazine, SiliconRepublic.com, etc). He holds an MSc in Computer Engineering from UCA and the SSCP, CISSP, CSSLP & CCSP certifications from (ISC)². 
-   TrainerId: trainer010
-   Title: Web Application Security Essentials - 3 Day Training
-   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-   SectionId: sku_IWAHBB
-   Description: >-
-        This course provides the knowledge and resources required to evaluate the security of web applications. The participants, through the understanding of theory and a strong focus on practical exercises, will be able to identify critical vulnerabilities in web applications, understand how exploitation works and learn how to implement the necessary corrective measures.
+      Get a FREE taste for this training, including access to video recording, slides and vulnerable apps to play with 
+      4 hour workshop - https://7asecurity.com/free-workshop-mobile-practical 
 
-        The course is aligned with the OWASP 10 2021, a world-renowned reference document which describes the most critical web application security flaws.
+      Each section starts with a brief introduction to the mobile platform for that section and then continues with a look at static analysis, moves on to dynamic checks finishing off with a nice CTF session to test the skills gained.
 
-        The topics covered include
+      Day 1 - Focused specifically on Android. We start with understanding applications and then deep dive into static and dynamic analysis of the applications at hand. This section is packed with hands-on exercises and CTF-style challenges.
 
-        Introduction to Web Application Security
-        Technologies used in Web Applications
-        The Security Tester Toolkit
-        Critical Areas in Web Applications
-        Broken Access Control
-        Cryptographic Failures
-        Injection
-        Insecure Design
-        Security Misconfiguration
-        Vulnerable and Outdated Components
-        Identification and Authentication Failures
-        Software and Data Integrity Failures
-        Security Logging and Monitoring Failures
-        Server Side Request Forgery (SSRF)
+      Day 2 - Focused on iOS. We start with understanding iOS Architecture and various security precautions in place. We then focus on static and dynamic analysis of the applications at hand. The section is filled with hands-on exercises ending with a CTF for more practical fun.
+      Teaser Video - https://www.youtube.com/watch?v=Re5oqfVkgd4
+- Type: Training
+  Trainers: 
+    - Name: Fabio Cerullo
+      Email: fcerullo@cycubix.com
+      Image: /assets/images/trainers/foto_300dpi (1).jpg
+      Twitter: fcerullo
+      Biography: >-
+          Fabio delivered this training to thousands of developers and security professionals. He also regularly delivers training to technical audiences on various topics 
+          such as application security, cloud security, and information security. Here is a reference from one attendee of his courses, 
+          <strong>          
+          'Fabio is an excellent instructor. I was lucky enough to attend one of the courses where he was the instructor. He was able to present the 
+          subject matter in an interesting way and at an appropriate pace. He encouraged interaction and was able to answer questions with ease by 
+          leveraging his extensive experience in the industry.'
+          </strong>
+          Fabio Cerullo is an official certified instructor for (ISC)², the global leader in information security education and certification. Fabio has over 15 years of experience in the information security field gained across a diverse range of industries ranging from financial and government institutions to software houses and start-ups. He regularly trains professionals from different backgrounds in application security, cloud security, and information security. He is a regular speaker at events organized by OWASP, ISACA and (ISC)² among others; and provides commentary and written articles for specialized industry media (Computer Weekly, Infosecurity Magazine, SiliconRepublic.com, etc). He holds an MSc in Computer Engineering from UCA and the SSCP, CISSP, CSSLP & CCSP certifications from (ISC)². 
+  TrainerId: trainer010
+  Title: Web Application Security Essentials - 3 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
+  SectionId: sku_IWAHBB
+  Description: >-
+      This course provides the knowledge and resources required to evaluate the security of web applications. The participants, through the understanding of theory and a strong focus on practical exercises, will be able to identify critical vulnerabilities in web applications, understand how exploitation works and learn how to implement the necessary corrective measures.
 
-        Format - The course combines theory and hands-on practical exercises. The participants start by learning about web application vulnerabilities. They are then given access to a purpose-built web application environment that contains the bugs and coding errors they have learned about. This provides an ideal ‘real-life’ opportunity to exploit these vulnerabilities in a safe environment.
+      The course is aligned with the OWASP 10 2021, a world-renowned reference document which describes the most critical web application security flaws.
+
+      The topics covered include
+
+      Introduction to Web Application Security
+      Technologies used in Web Applications
+      The Security Tester Toolkit
+      Critical Areas in Web Applications
+      Broken Access Control
+      Cryptographic Failures
+      Injection
+      Insecure Design
+      Security Misconfiguration
+      Vulnerable and Outdated Components
+      Identification and Authentication Failures
+      Software and Data Integrity Failures
+      Security Logging and Monitoring Failures
+      Server Side Request Forgery (SSRF)
+
+      Format - The course combines theory and hands-on practical exercises. The participants start by learning about web application vulnerabilities. They are then given access to a purpose-built web application environment that contains the bugs and coding errors they have learned about. This provides an ideal ‘real-life’ opportunity to exploit these vulnerabilities in a safe environment.
