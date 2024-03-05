@@ -9,18 +9,18 @@ permalink: /trainings/
 
 #### Training subject to change based on trainer availability and meeting the number of students per trainer request.
 
-## Pricing TBD
+## Pricing €850 - €2550
 <!--
-1-day course : $TBD<br>
-2-day course: $TBD<br>
-3-day course: $TBD<br>
+1-day course : €850<br>
+2-day course: €1700<br>
+3-day course: €2550<br>
 
-All training will be held at the TBD
+All training will be held at the Lisbon Congress Center
 
 <br><br>
-3-day training courses will be held TBD<br>
-2-day training courses will be held TBD<br>
-1-day training courses will be held on TBD
+3-day training courses will be held June 24-26, 2024<br>
+2-day training courses will be held June 25-26, 2024<br>
+1-day training courses will be held on June 26, 2024
 -->
 
 <section class='training'>
