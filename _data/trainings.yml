@@ -110,15 +110,15 @@
 
       If you are involved in using SAST, DAST or SCA tools in your organisation, these may be familiar feelings to you. In this course you will learn how to address these problems and more (in a vendor-neutral way), with topics including
 
-      What to expect from these tools?
-      Customising and optimising these tools effectively
-      Building tool processes which fit your business
-      Automating workflows using CI/CD without slowing it down.
-      Showing the value and improvements you are making
-      Faster and easier triage through smart filtering
-      How to focus on fixing what matters and cut down noise
-      Techniques for various alternative forms of remediation
-      Comparison of the different tool types covered.
+      <li>What to expect from these tools?</li>
+      <li>Customising and optimising these tools effectively</li>
+      <li>Building tool processes which fit your business</li>
+      <li>Automating workflows using CI/CD without slowing it down</li>
+      <li>Showing the value and improvements you are making</li>
+      <li>Faster and easier triage through smart filtering</li>
+      <li>How to focus on fixing what matters and cut down noise</li>
+      <li>Techniques for various alternative forms of remediation</li>
+      <li>Comparison of the different tool types covered</li>
 
       To bring the course to life and let you apply what you learn, you will work in teams on table-top exercises where you design processes to cover specific scenarios, explain and justify your decisions to simulated stakeholders and practice prioritising your remediation efforts.
 
