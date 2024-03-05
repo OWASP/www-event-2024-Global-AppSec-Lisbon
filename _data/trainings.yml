@@ -275,25 +275,25 @@
   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
   SectionId: sku_IWAHBB
   Description: >-
-      This course provides the knowledge and resources required to evaluate the security of web applications. The participants, through the understanding of theory and a strong focus on practical exercises, will be able to identify critical vulnerabilities in web applications, understand how exploitation works and learn how to implement the necessary corrective measures.
-
-      The course is aligned with the OWASP 10 2021, a world-renowned reference document which describes the most critical web application security flaws.
-
+      This course provides the knowledge and resources required to evaluate the security of web applications. The participants, through the understanding of theory and a strong focus on practical exercises, will be able to identify critical vulnerabilities in web applications, understand how exploitation works and learn how to implement the necessary corrective measures.<br>
+      <br>
+      The course is aligned with the OWASP 10 2021, a world-renowned reference document which describes the most critical web application security flaws.<br>
+      <br>
       The topics covered include
 
-      Introduction to Web Application Security
-      Technologies used in Web Applications
-      The Security Tester Toolkit
-      Critical Areas in Web Applications
-      Broken Access Control
-      Cryptographic Failures
-      Injection
-      Insecure Design
-      Security Misconfiguration
-      Vulnerable and Outdated Components
-      Identification and Authentication Failures
-      Software and Data Integrity Failures
-      Security Logging and Monitoring Failures
-      Server Side Request Forgery (SSRF)
-
+      <li>Introduction to Web Application Security</li>
+      <li>Technologies used in Web Applications</li>
+      <li>The Security Tester Toolkit</li>
+      <li>Critical Areas in Web Applications</li>
+      <li>Broken Access Control</li>
+      <li>Cryptographic Failures</li>
+      <li>Injection</li>
+      <li>Insecure Design</li>
+      <li>Security Misconfiguration</li>
+      <li>Vulnerable and Outdated Components</li>
+      <li>Identification and Authentication Failures</li>
+      <li>Software and Data Integrity Failures</li>
+      <li>Security Logging and Monitoring Failures</li>
+      <li>Server Side Request Forgery (SSRF)</li><br>
+      <br>
       Format - The course combines theory and hands-on practical exercises. The participants start by learning about web application vulnerabilities. They are then given access to a purpose-built web application environment that contains the bugs and coding errors they have learned about. This provides an ideal ‘real-life’ opportunity to exploit these vulnerabilities in a safe environment.
