@@ -174,57 +174,57 @@
       <li>00-12 Third-Party Library Security Management - Ensuring Third-Party Library Security</li>
       <li>00-13 Introduction to Cloud Security -  Basics of Cloud Security Management</li>
       <li>00-14 Introduction to iOS and Android Security - Mobile Security Fundamentals</li>
-
+      <br>
       Standards
-      01-00 OWASP Top Ten - Top Ten Web Security Risks
-      01-01 Introduction to GDPR -  European Data Privacy Law
-      01-02 OWASP ASVS -  Comprehensive Secure Coding Standard
-      01-03 OWASP Top Ten Proactive Controls -  Web Security Defense Categories
-      01-04 PCI Secure SDLC Standard - Credit Card SDLC Requirements
-
+      <li>01-00 OWASP Top Ten - Top Ten Web Security Risks</li>
+      <li>01-01 Introduction to GDPR -  European Data Privacy Law</li>
+      <li>01-02 OWASP ASVS -  Comprehensive Secure Coding Standard</li>
+      <li>01-03 OWASP Top Ten Proactive Controls -  Web Security Defense Categories</li>
+      <li>01-04 PCI Secure SDLC Standard - Credit Card SDLC Requirements</li>
+      <br>
       User Interface Security
-      02-00 XSS Defense -  Client-Side Web Security
-      02-01 Content Security Policy - Advanced Client-Side Web Security
-      02-02 Content Spoofing and HTML Hacking -  HTML Client-Side Injection Attacks
-      02-03 React Security -  Secure React Application Development
-      02-04 Vue.js Security - Secure Vue.js Application Development
-      02-05 Angular and AngularJS Security - Secure Angular Application Development
-      02-06 Clickjacking - UI Redress Attack Defense
-
+      <li>02-00 XSS Defense -  Client-Side Web Security</li>
+      <li>02-01 Content Security Policy - Advanced Client-Side Web Security</li>
+      <li>02-02 Content Spoofing and HTML Hacking -  HTML Client-Side Injection Attacks</li>
+      <li>02-03 React Security -  Secure React Application Development</li>
+      <li>02-04 Vue.js Security - Secure Vue.js Application Development</li>
+      <li>02-05 Angular and AngularJS Security - Secure Angular Application Development</li>
+      <li>02-06 Clickjacking - UI Redress Attack Defense</li>
+      <br>
       Identity & Access Management
-      03-01 Authentication Best Practices - Web Authentication Practices
-      03-02 Session Management Best Practices - Web Session Management Practices
-      03-03 Multi-Factor Authentication - NIST SP-800-63 Compliant MFA Implementation
-      03-04 Secure Password Policy and Storage - Secure User Password Policy and Storage
-      03-05 Access Control Design - ABAC/Capabilities-Based Access Control
-      03-06 OAuth2 Security - OAuth2 Authorization Protocol
-      03-07 OpenID Connect Security - OpenID Connect Federation Protocol
-
+      <li>03-01 Authentication Best Practices - Web Authentication Practices</li>
+      <li>03-02 Session Management Best Practices - Web Session Management Practices</li>
+      <li>03-03 Multi-Factor Authentication - NIST SP-800-63 Compliant MFA Implementation</li>
+      <li>03-04 Secure Password Policy and Storage - Secure User Password Policy and Storage</li>
+      <li>03-05 Access Control Design - ABAC/Capabilities-Based Access Control</li>
+      <li>03-06 OAuth2 Security - OAuth2 Authorization Protocol</li>
+      <li>03-07 OpenID Connect Security - OpenID Connect Federation Protocol</li>
+      <br>
       Crypto Modules
-      04-00 Secrets Management - Key and Credential Storage Strategies
-      04-01 HTTPS/TLS Best Practices - Transport Security Introduction
-      04-02 Cryptography Fundamentals - Part 1 - Terminology, Steganography, Attacks, Kerchoff's Principle, PFC
-      04-03 Cryptography Fundamentals - Part 2 - Hash Functions, Symmetric Cryptography, Randomness, Digital Signatures
-
+      <li>04-00 Secrets Management - Key and Credential Storage Strategies</li>
+      <li>04-01 HTTPS/TLS Best Practices - Transport Security Introduction</li>
+      <li>04-02 Cryptography Fundamentals - Part 1 - Terminology, Steganography, Attacks, Kerchoff's Principle, PFC</li>
+      <li>04-03 Cryptography Fundamentals - Part 2 - Hash Functions, Symmetric Cryptography, Randomness, Digital Signatures</li>
+      <br>
       Process
-      05-00 DevOps Best Practices - DevOps and DevSecOps with a CD/CI Focus
-      05-01 Secure SDLC and AppSec Management - Managing Secure Software Processes
+      <li>05-00 DevOps Best Practices - DevOps and DevSecOps with a CD/CI Focus</li>
+      <li>05-01 Secure SDLC and AppSec Management - Managing Secure Software Processes</li>
 
       Additional Topics
-      06-00 User and Helpdesk Awareness Training - Security Awareness for Non-Technical Staff
-      06-01 Social Engineering for Developers - Developer Protection Against Social Engineering
-      06-02 Application Layer Intrusion Detection - Detecting App Layer Attacks
-      06-03 Threat Modeling Fundamentals - Security Design via Threat Modeling
-      06-04 Forms and Workflows Security - Secure Handling of Complex Forms
-      06-05 Java 8/9/10/11/12/13+ Security Controls - Java Security Advances
-      06-06 Logging and Monitoring Security - Security-Focused Logging
-      06-07 Subdomain Takeover - Preventing Subdomain Takeover Scenarios
-      06-08 Laravel and PHP Security - Focus on PHP Security
-
+      <li>06-00 User and Helpdesk Awareness Training - Security Awareness for Non-Technical Staff</li>
+      <li>06-01 Social Engineering for Developers - Developer Protection Against Social Engineering</li>
+      <li>06-02 Application Layer Intrusion Detection - Detecting App Layer Attacks</li>
+      <li>06-03 Threat Modeling Fundamentals - Security Design via Threat Modeling</li>
+      <li>06-04 Forms and Workflows Security - Secure Handling of Complex Forms</li>
+      <li>06-05 Java 8/9/10/11/12/13+ Security Controls - Java Security Advances</li>
+      <li>06-06 Logging and Monitoring Security - Security-Focused Logging</li>
+      <li>06-07 Subdomain Takeover - Preventing Subdomain Takeover Scenarios</li>
+      <li>06-08 Laravel and PHP Security - Focus on PHP Security</li>
+      <br>
       Lab Options
-      07-00 Competitive Web Hacking LABS - Hands-on Web Hacking Labs
-      07-01 Competitive API Hacking LABS - Hands-on API Hacking Labs
-      07-02 Secure Coding Knowledge LABS - Hands-on Secure Coding Labs
+      <li>07-00 Competitive Web Hacking LABS - Hands-on Web Hacking Labs</li>
+      <li>07-01 Competitive API Hacking LABS - Hands-on API Hacking Labs</li>
+      <li>07-02 Secure Coding Knowledge LABS - Hands-on Secure Coding Labs</li>
 - Type: Training
   Trainers: 
     - Name: Abraham Aranguren
