@@ -159,21 +159,21 @@
   SectionId: sku_IWAHBB
   Description: >-
       Core Modules
-      00-00 Introduction to Application Security  - Goals and Threats in AppSec
-      00-01 Input Validation Basics - Allowlist Validation, Safe Redirects
-      00-02 HTTP Security Basics - Response/Request Headers, Verbs, Secure Transport Basics
-      00-03 SOP and CORS - Same-Origin Policy, Cross-Origin Resource Sharing Security
-      00-04 API and REST Security - REST Design, XML, XXE, JSON, API Access Control
-      00-05 Microservice Security -  Security Architectures in Microservices
-      00-06 JSON Web Tokens- Addressing JWT Security Challenges
-      00-07 SQL and Other Injections - Parameterized Queries, Secure Database Configurations, Command Injection
-      00-08 Cross-Site Request Forgery -  CSRF Defenses for Various Architectures
-      00-09 File Upload and File I/O Security - Secure File Upload, File I/O Security
-      00-10 Deserialization Security -  Safe Deserialization Practices
-      00-11 Artificial Intelligence Security - Securing AI Implementations, Full Course
-      00-12 Third-Party Library Security Management - Ensuring Third-Party Library Security
-      00-13 Introduction to Cloud Security -  Basics of Cloud Security Management
-      00-14 Introduction to iOS and Android Security - Mobile Security Fundamentals
+      <li>00-00 Introduction to Application Security  - Goals and Threats in AppSec</li>
+      <li>00-01 Input Validation Basics - Allowlist Validation, Safe Redirects</li>
+      <li>00-02 HTTP Security Basics - Response/Request Headers, Verbs, Secure Transport Basics</li>
+      <li>00-03 SOP and CORS - Same-Origin Policy, Cross-Origin Resource Sharing Security</li>
+      <li>00-04 API and REST Security - REST Design, XML, XXE, JSON, API Access Control</li>
+      <li>00-05 Microservice Security -  Security Architectures in Microservices</li>
+      <li>00-06 JSON Web Tokens- Addressing JWT Security Challenges</li>
+      <li>00-07 SQL and Other Injections - Parameterized Queries, Secure Database Configurations, Command Injection</li>
+      <li>00-08 Cross-Site Request Forgery -  CSRF Defenses for Various Architectures</li>
+      <li>00-09 File Upload and File I/O Security - Secure File Upload, File I/O Security</li>
+      <li>00-10 Deserialization Security -  Safe Deserialization Practices</li>
+      <li>00-11 Artificial Intelligence Security - Securing AI Implementations, Full Course</li>
+      <li>00-12 Third-Party Library Security Management - Ensuring Third-Party Library Security</li>
+      <li>00-13 Introduction to Cloud Security -  Basics of Cloud Security Management</li>
+      <li>00-14 Introduction to iOS and Android Security - Mobile Security Fundamentals</li>
 
       Standards
       01-00 OWASP Top Ten - Top Ten Web Security Risks
