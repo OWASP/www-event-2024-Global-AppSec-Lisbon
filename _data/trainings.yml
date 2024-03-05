@@ -71,23 +71,23 @@
   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
   SectionId: sku_IWAHBB
   Description: >-
-      Privacy is hot! Now is the time to embrace this in-demand skillset. Believe it or not, privacy will even strengthen your security posture. Join this course now to learn about privacy engineering essentials and practical privacy-by-design approaches. With the lessons we’ll teach you, you’ll be able to effectively integrate privacy in existing security practices!
-
-      Consumers are becoming more privacy-aware and expect privacy-oriented products. Likewise, globally emerging data protection legislations are forcing companies to integrate a technical approach for privacy into system design. With ever higher demands for privacy engineering, privacy by design, privacy-respecting systems - and increasing impact from the lack thereof - security teams are hard pressed to keep up with these emerging requirements and often feel like there is a substantial and growing skills gap.
-
-      Traditional security approaches do not typically focus on this aspect, leaving individuals at risk. Fortunately, privacy by design does not have to be difficult, and in fact, can be nicely aligned with secure design best practices. Incorporating privacy into security with a proactive approach is essential, and can even become a force multiplier for more secure systems!
-
-      This interactive hands-on training will introduce you to common privacy goals, and how these often fail. You'll learn about core privacy engineering fundamentals and get hands-on experience identifying and tackling potential privacy gaps and weaknesses, by leveraging by-design approaches such as threat modeling. As privacy shouldn’t be tackled in isolation, you will learn how to build privacy into the core of the software design and development process, aligned with security practices, showing how to gain increased efficiency and effectiveness in both domains.
-
+      Privacy is hot! Now is the time to embrace this in-demand skillset. Believe it or not, privacy will even strengthen your security posture. Join this course now to learn about privacy engineering essentials and practical privacy-by-design approaches. With the lessons we’ll teach you, you’ll be able to effectively integrate privacy in existing security practices!<br>
+      <br>
+      Consumers are becoming more privacy-aware and expect privacy-oriented products. Likewise, globally emerging data protection legislations are forcing companies to integrate a technical approach for privacy into system design. With ever higher demands for privacy engineering, privacy by design, privacy-respecting systems - and increasing impact from the lack thereof - security teams are hard pressed to keep up with these emerging requirements and often feel like there is a substantial and growing skills gap.<br>
+      <br>
+      Traditional security approaches do not typically focus on this aspect, leaving individuals at risk. Fortunately, privacy by design does not have to be difficult, and in fact, can be nicely aligned with secure design best practices. Incorporating privacy into security with a proactive approach is essential, and can even become a force multiplier for more secure systems!<br>
+      <br>
+      This interactive hands-on training will introduce you to common privacy goals, and how these often fail. You'll learn about core privacy engineering fundamentals and get hands-on experience identifying and tackling potential privacy gaps and weaknesses, by leveraging by-design approaches such as threat modeling. As privacy shouldn’t be tackled in isolation, you will learn how to build privacy into the core of the software design and development process, aligned with security practices, showing how to gain increased efficiency and effectiveness in both domains.<br>
+      <br>
       The course will cover these main topics
-      - Introduction to Privacy Essentials
-      - Architectural data mapping
-      - Tracing the functionality
-      - Overview of Privacy Threat Modeling
-      - Analyzing for Privacy Threats
-      - Privacy controls and mitigation strategies
-      - Putting it all together - Full Privacy Process
-
+      <li>Introduction to Privacy Essentials</li>
+      <li>Architectural data mapping</li>
+      <li>Tracing the functionality</li>
+      <li>Overview of Privacy Threat Modeling</li>
+      <li>Analyzing for Privacy Threats</li>
+      <li>Privacy controls and mitigation strategies</li>
+      <li>Putting it all together - Full Privacy Process</li>
+      <br>
       Each of these interactive modules will teach you both the technical skills and social aspects essential for successful privacy engineering, explain how they align with corresponding security practices, and highlight how these privacy skills can strengthen your security posture. With plenty of hands-on experience through a set of exercises, class discussions, and productive collaboration, you'll gain confidence to improve the privacy posture of your system using established design techniques, so you can take these practical skills back to your security practice.
 - Type: Training
   Trainers: 
