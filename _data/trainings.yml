@@ -17,7 +17,8 @@
       <br>
       This one-day intensive training program will equip you with the knowledge to tackle these AI-related challenges effectively, enabling you to apply what you learn immediately. Starting with a foundational overview of AI, the course then delivers an exhaustive exploration of the distinctive vulnerabilities AI introduces, the possible attack vectors, and the most current strategies to counteract threats like prompt injection, data poisoning, model theft, evasion, and more. Through practical exercises, you will gain hands-on experience in enacting strong security measures, attacking AI systems, conducting threat modelling on AI, and targeted vulnerability assessments for AI applications.<br>
       <br>
-      By day's end, you will possess a thorough comprehension of the core principles and techniques critical to strengthening AI systems. You will have gained practical insights and the confidence to implement cutting-edge AI security measures.
+      By day's end, you will possess a thorough comprehension of the core principles and techniques critical to strengthening AI systems. You will have gained practical insights and the confidence to implement cutting-edge AI security measures.<br>
+      <br>
 - Type: Training
   Trainers: 
     - Name: Paulo Silva
@@ -31,7 +32,8 @@
   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
   SectionId: sku_IWAHBB
   Description: >-
-      Following a hands-on approach, attendees will be guided into exploiting the ten most common API security risks according to the OWASP API Security Top 10. The security issues will be discussed in-depth, also covering the mitigation. API protocol-specific security issues will be addressed and discussed to cover the most common API protocols. Training sessions are delivered by a security practitioner and OWASP project co-leader.
+      Following a hands-on approach, attendees will be guided into exploiting the ten most common API security risks according to the OWASP API Security Top 10. The security issues will be discussed in-depth, also covering the mitigation. API protocol-specific security issues will be addressed and discussed to cover the most common API protocols. Training sessions are delivered by a security practitioner and OWASP project co-leader.<br>
+      <br>
 - Type: Training
   Trainers: 
     - Name: Dr. Michael Loadenthal
@@ -49,7 +51,8 @@
   Description: >-
       This workshop introduces a logic, methodology, and toolset for intersectional, risk-centric, attack-driven threat modeling, tailored to both technical (i.e., computer/network-based) and non-technical practitioners (e.g., journalists, human rights defenders). This approach focuses on promoting proactive harm reduction through a focus on the context-sensitive aspects of human, organizational, and networked digital systems. Backed by dozens of case studies and more than a decade of direct application, this session will help enumerate how ‘technical’ and ‘non-technical’ users can benefit from the logic and methods of threat modeling.<br> 
       <br>
-      Participants will be challenged to consider their own threat environment and to actively engage with the process through in-session brainstorming activities, risk assessments, and other illustrative exercises. This workshop does not require any technical know-how, but participants should come prepared to investigate and explore their own security challenges. Through a combination of traditional lecture, applied discussion, and hands-on activities participants will engage directly with the process of intersectional threat modeling.
+      Participants will be challenged to consider their own threat environment and to actively engage with the process through in-session brainstorming activities, risk assessments, and other illustrative exercises. This workshop does not require any technical know-how, but participants should come prepared to investigate and explore their own security challenges. Through a combination of traditional lecture, applied discussion, and hands-on activities participants will engage directly with the process of intersectional threat modeling.<br>
+      <br>
 - Type: Training
   Trainers: 
     - Name: Kim Wuyts
@@ -88,7 +91,8 @@
       <li>Privacy controls and mitigation strategies</li>
       <li>Putting it all together - Full Privacy Process</li>
       <br>
-      Each of these interactive modules will teach you both the technical skills and social aspects essential for successful privacy engineering, explain how they align with corresponding security practices, and highlight how these privacy skills can strengthen your security posture. With plenty of hands-on experience through a set of exercises, class discussions, and productive collaboration, you'll gain confidence to improve the privacy posture of your system using established design techniques, so you can take these practical skills back to your security practice.
+      Each of these interactive modules will teach you both the technical skills and social aspects essential for successful privacy engineering, explain how they align with corresponding security practices, and highlight how these privacy skills can strengthen your security posture. With plenty of hands-on experience through a set of exercises, class discussions, and productive collaboration, you'll gain confidence to improve the privacy posture of your system using established design techniques, so you can take these practical skills back to your security practice.<br>
+      <br>
 - Type: Training
   Trainers: 
     - Name: Josh Grossman
@@ -126,7 +130,8 @@
       <br>
       For these exercises, you will work based on specially designed process templates (which we will provide) which you can use afterwards to apply these improvements within your own organisation.<br>
       <br>
-      Be ready to work in a group, take part in discussions and present your findings and leave the course with clear strategies and ideas on how to get less stress and more value from these tools.
+      Be ready to work in a group, take part in discussions and present your findings and leave the course with clear strategies and ideas on how to get less stress and more value from these tools.<br>
+      <br>
 - Type: Training
   Trainers: 
     - Name: Adam Shostack
@@ -142,7 +147,8 @@
   Description: >-
       This hands-on, interactive class will focus on learning to threat model by executing each of the steps. Students will start with a guided threat modeling exercise, 
       and we'll then iterate and break down the skills they're learning in more depth. We'll progressing through the Four Questions of Threat Modeling- what are we working 
-      on, what can go wrong, what are we going to do about it and did we do a good job. This is capped off with an end-to-end exercise that brings the skills together.
+      on, what can go wrong, what are we going to do about it and did we do a good job. This is capped off with an end-to-end exercise that brings the skills together.<br>
+      <br>
 - Type: Training
   Trainers: 
     - Name: Jim Manico
@@ -226,7 +232,8 @@
       Lab Options
       <li>07-00 Competitive Web Hacking LABS - Hands-on Web Hacking Labs</li>
       <li>07-01 Competitive API Hacking LABS - Hands-on API Hacking Labs</li>
-      <li>07-02 Secure Coding Knowledge LABS - Hands-on Secure Coding Labs</li>
+      <li>07-02 Secure Coding Knowledge LABS - Hands-on Secure Coding Labs</li><br>
+      <br>
 - Type: Training
   Trainers: 
     - Name: Abraham Aranguren
@@ -254,7 +261,8 @@
       <br>
       <li>Day 2 - Focused on iOS. We start with understanding iOS Architecture and various security precautions in place. We then focus on static and dynamic analysis of the applications at hand. The section is filled with hands-on exercises ending with a CTF for more practical fun.</li>
       <br>
-      Teaser Video - https://www.youtube.com/watch?v=Re5oqfVkgd4
+      Teaser Video - https://www.youtube.com/watch?v=Re5oqfVkgd4<br>
+      <br>
 - Type: Training
   Trainers: 
     - Name: Fabio Cerullo
@@ -296,4 +304,5 @@
       <li>Security Logging and Monitoring Failures</li>
       <li>Server Side Request Forgery (SSRF)</li><br>
       <br>
-      Format - The course combines theory and hands-on practical exercises. The participants start by learning about web application vulnerabilities. They are then given access to a purpose-built web application environment that contains the bugs and coding errors they have learned about. This provides an ideal ‘real-life’ opportunity to exploit these vulnerabilities in a safe environment.
+      Format - The course combines theory and hands-on practical exercises. The participants start by learning about web application vulnerabilities. They are then given access to a purpose-built web application environment that contains the bugs and coding errors they have learned about. This provides an ideal ‘real-life’ opportunity to exploit these vulnerabilities in a safe environment.<br>
+      <br>
