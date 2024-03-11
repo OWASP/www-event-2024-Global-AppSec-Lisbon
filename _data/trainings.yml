@@ -9,7 +9,7 @@
       TrainerId: trainer001
   Title: Master AI Security - 1 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-  SectionId: sku_IWAHBB
+  SectionId: sku_MAIS
   Description: >-
       <a href='https://wetransfer.com/downloads/946882a88f22efcd9bb46b6801a3a84d20240306164912/2984455c3efb05aaf8182ae480a5a24020240306165022/5c2672'>Teaser video</a> for this training.<br> 
       <br>
@@ -32,7 +32,7 @@
       TrainerId: trainer002
   Title: The Dark Side of APIs - the Attacker way to protect software - 1 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-  SectionId: sku_IWAHBB
+  SectionId: sku_TDSA
   Description: >-
       Following a hands-on approach, attendees will be guided into exploiting the ten most common API security risks according to the OWASP API Security Top 10. The security issues will be discussed in-depth, also covering the mitigation. API protocol-specific security issues will be addressed and discussed to cover the most common API protocols. Training sessions are delivered by a security practitioner and OWASP project co-leader.<br>
       <br>
@@ -49,7 +49,7 @@
       TrainerId: trainer003
   Title: Intersectional Threat Modeling for Identifying, Ranking, and Mitigating Offline Threats, Risks, and Dangers - 1 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-  SectionId: sku_IWAHBB
+  SectionId: sku_ITMI
   Description: >-
       This workshop introduces a logic, methodology, and toolset for intersectional, risk-centric, attack-driven threat modeling, tailored to both technical (i.e., computer/network-based) and non-technical practitioners (e.g., journalists, human rights defenders). This approach focuses on promoting proactive harm reduction through a focus on the context-sensitive aspects of human, organizational, and networked digital systems. Backed by dozens of case studies and more than a decade of direct application, this session will help enumerate how ‘technical’ and ‘non-technical’ users can benefit from the logic and methods of threat modeling.<br> 
       <br>
@@ -74,7 +74,7 @@
           AviD is an active contributor to open source communities, including leading the OWASP Israel chapter, creating the incredibly popular AppSec Israel security conference, co-founding the OWASP Threat Modeling project, and currently serving on the OWASP Global Board of Directors. He is also a community moderator on https://Security.StackExchange.com/, and co-authored the Threat Modeling Manifesto+Capabilities https://www.threatmodelingmanifesto.org/.#       TrainerId: trainer_dos#   Title: Practical Privacy by Design - Building secure applications that respect privacy
   Title: Practical Privacy by Design - Building Secure Applications that Respect Privacy 2-Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-  SectionId: sku_IWAHBB
+  SectionId: sku_PPBD
   Description: >-
       Privacy is hot! Now is the time to embrace this in-demand skillset. Believe it or not, privacy will even strengthen your security posture. Join this course now to learn about privacy engineering essentials and practical privacy-by-design approaches. With the lessons we’ll teach you, you’ll be able to effectively integrate privacy in existing security practices!<br>
       <br>
@@ -112,12 +112,13 @@
   TrainerId: trainer006
   Title: Building a High-Value AppSec Scanning Programme - 2 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-  SectionId: sku_IWAHBB
+  SectionId: sku_BHVASP
   Description: >-
       You bought the application security tools, you have the findings, but now what? Many organisations find themselves drowning in “possible vulnerabilities”, struggling to streamline their processes and not sure how to measure their progress.<br>
       <br>
-      If you are involved in using SAST, DAST or SCA tools in your organisation, these may be familiar feelings to you. In this course you will learn how to address these problems and more (in a vendor-neutral way), with topics including the following <br>
+      If you are involved in using SAST, DAST or SCA tools in your organisation, these may be familiar feelings to you. In this course you will learn how to address these problems and more (in a vendor-neutral way), with topics including the following:<br>
       <br>
+      <ul>
       <li>What to expect from these tools?</li>
       <li>Customising and optimising these tools effectively</li>
       <li>Building tool processes which fit your business</li>
@@ -127,6 +128,7 @@
       <li>How to focus on fixing what matters and cut down noise</li>
       <li>Techniques for various alternative forms of remediation</li>
       <li>Comparison of the different tool types covered</li>
+      </ul>
       <br>
       To bring the course to life and let you apply what you learn, you will work in teams on table-top exercises where you design processes to cover specific scenarios, explain and justify your decisions to simulated stakeholders and practice prioritising your remediation efforts.<br>
       <br>
@@ -134,6 +136,8 @@
       <br>
       Be ready to work in a group, take part in discussions and present your findings and leave the course with clear strategies and ideas on how to get less stress and more value from these tools.<br>
       <br>
+      See an explanatory video for the course here:<br>
+      <iframe width="640" height="360" src="https://www.youtube.com/embed/ZQew3wMcL98" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 - Type: Training
   Trainers: 
     - Name: Adam Shostack
@@ -145,7 +149,7 @@
   TrainerId: trainer007
   Title: Adam Shostack's Threat Modeling Intensive - 2 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-  SectionId: sku_IWAHBB
+  SectionId: sku_ASTMI
   Description: >-
       This hands-on, interactive class will focus on learning to threat model by executing each of the steps. Students will start with a guided threat modeling exercise, 
       and we'll then iterate and break down the skills they're learning in more depth. We'll progressing through the Four Questions of Threat Modeling- what are we working 
@@ -166,7 +170,7 @@
   TrainerId: trainer008
   Title: Application Security Training with Jim Manico - 3 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-  SectionId: sku_IWAHBB
+  SectionId: sku_ASTJM
   Description: >-
       Core Modules
       <li>00-00 Introduction to Application Security  - Goals and Threats in AppSec</li>
@@ -245,9 +249,9 @@
       Biography: >-
           After 15 years in itsec and 22 in IT Abraham is now the CEO of 7ASecurity (7asecurity.com), a company specializing in penetration testing of web/mobile apps, infrastructure, code reviews and training. Co-Author of the Mobile, Web and Desktop (Electron) app 7ASecurity courses. Security Trainer at Blackhat USA, HITB, OWASP Global AppSec and many other events. Former senior penetration tester / team lead at Cure53 and Version 1. Creator of “Practical Web Defense”, a hands-on eLearnSecurity attack / defense course, OWASP OWTF project leader, an OWASP flagship project (owtf.org), Major degree and Diploma in Computer Science, some certs: CISSP, OSCP, GWEB, OSWP, CPTS, CEH, MCSE:Security, MCSA:Security, Security+. As a shell scripting fan trained by unix dinosaurs, Abraham wears a proud manly beard. He writes on Twitter as @7asecurity @7a_ @owtfp or https://7asecurity.com/blog. Multiple presentations, pentest reports and recordings can be found at https://7asecurity.com/publications
   TrainerId: trainer009
-  Title: Hacking Adroid, iOS, and IoT apps by Example - 3 Day Training
+  Title: Hacking Android, iOS, and IoT apps by Example - 3 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-  SectionId: sku_IWAHBB
+  SectionId: sku_HAIIE
   Description: >-
       This course is the culmination of years of experience gained via practical penetration testing of mobile applications as well as countless hours spent in research. We have structured this course around the OWASP Mobile Security Testing Guide (MSTG) and relevant items of the OWASP Mobile Application Security Verification Standard (MASVS), so this course covers and goes beyond the OWASP Mobile Top Ten.<br> 
       <br>
@@ -283,7 +287,7 @@
   TrainerId: trainer010
   Title: Web Application Security Essentials - 3 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
-  SectionId: sku_IWAHBB
+  SectionId: sku_WASE
   Description: >-
       This course provides the knowledge and resources required to evaluate the security of web applications. The participants, through the understanding of theory and a strong focus on practical exercises, will be able to identify critical vulnerabilities in web applications, understand how exploitation works and learn how to implement the necessary corrective measures.<br>
       <br>
