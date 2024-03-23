@@ -168,10 +168,11 @@
           volunteers for the OWASP foundation as the project lead for the OWASP Application Security Verification Standard and the OWASP Cheatsheet Series. 
           For more information, see https://www.linkedin.com/in/jmanico.
   TrainerId: trainer008
-  Title: Application Security Training with Jim Manico - 3 Day Training
+  Title: Application Security Training with Jim Manico - 3 Day Training 
   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
   SectionId: sku_ASTJM
   Description: >-
+      **In-person or online Training option available**<br>
       Core Modules
       <li>00-00 Introduction to Application Security  - Goals and Threats in AppSec</li>
       <li>00-01 Input Validation Basics - Allowlist Validation, Safe Redirects</li>
@@ -253,6 +254,7 @@
   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
   SectionId: sku_HAIIE
   Description: >-
+      **In person and online training option available**<br>
       This course is the culmination of years of experience gained via practical penetration testing of mobile applications as well as countless hours spent in research. We have structured this course around the OWASP Mobile Security Testing Guide (MSTG) and relevant items of the OWASP Mobile Application Security Verification Standard (MASVS), so this course covers and goes beyond the OWASP Mobile Top Ten.<br> 
       <br>
       Learn about Android, iOS and IoT app security by improving your mobile security testing kung-fu. Ideal for Penetration Testers, Mobile Developers and everybody interested in mobile app security.<br>
