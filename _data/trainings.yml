@@ -173,6 +173,7 @@
   SectionId: sku_ASTJM
   Description: >-
       **In-person or online Training option available**<br>
+      <br>
       Core Modules
       <li>00-00 Introduction to Application Security  - Goals and Threats in AppSec</li>
       <li>00-01 Input Validation Basics - Allowlist Validation, Safe Redirects</li>
@@ -255,6 +256,7 @@
   SectionId: sku_HAIIE
   Description: >-
       **In person and online training option available**<br>
+      <br>
       This course is the culmination of years of experience gained via practical penetration testing of mobile applications as well as countless hours spent in research. We have structured this course around the OWASP Mobile Security Testing Guide (MSTG) and relevant items of the OWASP Mobile Application Security Verification Standard (MASVS), so this course covers and goes beyond the OWASP Mobile Top Ten.<br> 
       <br>
       Learn about Android, iOS and IoT app security by improving your mobile security testing kung-fu. Ideal for Penetration Testers, Mobile Developers and everybody interested in mobile app security.<br>
