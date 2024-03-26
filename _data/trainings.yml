@@ -271,7 +271,7 @@
       <br>
       <li>Day 2 - Focused on iOS. We start with understanding iOS Architecture and various security precautions in place. We then focus on static and dynamic analysis of the applications at hand. The section is filled with hands-on exercises ending with a CTF for more practical fun.</li>
       <br>
-      <li>Day 3 - We cover advanced instrumentation techniques using Frida, Objection, radare2, r2frida, RMS and other tools to overcome assessment challenges and take your skills to the next level. This day will give people a wealth of knowledge in dynamic instrumentation capabilities on Android and iOS.      Teaser Video - https://www.youtube.com/watch?v=Re5oqfVkgd4<br>
+      <li>Day 3 - We cover advanced instrumentation techniques using Frida, Objection, radare2, r2frida, RMS and other tools to overcome assessment challenges and take your skills to the next level. This day will give people a wealth of knowledge in dynamic instrumentation capabilities on Android and iOS.
       <br>
       See an explanatory video for the course here<br>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/Re5oqfVkgd4?si=CUzkp4azSvwl2wU6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
