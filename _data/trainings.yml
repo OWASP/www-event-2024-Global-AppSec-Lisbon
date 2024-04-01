@@ -34,7 +34,30 @@
   URL: https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2024-tickets-750689411237?aff=oddtdtcreator
   SectionId: sku_TDSA
   Description: >-
-      Following a hands-on approach, attendees will be guided into exploiting the ten most common API security risks according to the OWASP API Security Top 10. The security issues will be discussed in-depth, also covering the mitigation. API protocol-specific security issues will be addressed and discussed to cover the most common API protocols. Training sessions are delivered by a security practitioner and OWASP project co-leader.<br>
+      Following a hands-on approach, attendees will be guided into exploiting the ten most common API security risks according to the OWASP API Security Top 10. The security issues will be discussed in-depth, also covering the mitigation. API protocol-specific security issues will be addressed and discussed to cover the most common API protocols. Training sessions are delivered by a security practitioner and OWASP project leader.<br>
+      <br>
+      Target Audience - API developers, DevSecOps, Pentesters, and systems integrators<br>
+      <br>
+      Training Program<br>
+      Part 1<br>
+      <br>
+      Introduction to the Open Web Application Security Project (OWASP), the OWASP API Security Project, and the OWASP API Top 10<br>
+      The HTTP protocol and how APIs work on top of it<br>
+      <br>
+      Part 2<br>
+      <br>
+      For each of the ten most common API security risks - according to the OWASP API Top 10<br>
+      Exploit the vulnerability<br>
+      Discuss the security issue, impact, and how to mitigate the risk GraphQL-specific security risks<br>
+      <br>
+      What You’ll Learn<br>
+      <br>
+      Relevant OWASP projects and how to use them to write secure code<br>
+      HTTP protocol fundamentals and how APIs work on top of it<br>
+      In-depth knowledge of the ten most common API security risks<br>
+      API protocol-specific risks e.g. GraphQL<br>
+      How threat agents exploit APIs vulnerabilities - tools and techniques<br>
+      How to avoid the most common API security issues<br>
       <br>
 - Type: Training
   Trainers: 
