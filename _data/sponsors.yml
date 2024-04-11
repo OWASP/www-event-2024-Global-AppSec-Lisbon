@@ -88,4 +88,19 @@
   url: https://scribesecurity.com/
   backgroundSize: 125px
   type: Start-Up
+- logo: /assets/images/sponsors/Semgrep.png
+  name: Semgrep
+  url: https://semgrep.dev/
+  backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/SVerimatrix-Logo-LG.png
+  name: Verimatrix
+  url: https://www.verimatrix.com/
+  backgroundSize: 125px
+  type: Diamond
+- logo: /assets/images/sponsors/myrror-logo-horizontal.png
+  name: Myrror Security
+  url: https://myrror.security/
+  backgroundSize: 125px
+  type: Start-Up
   
