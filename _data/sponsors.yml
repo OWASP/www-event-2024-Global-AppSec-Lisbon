@@ -103,4 +103,10 @@
   url: https://myrror.security/
   backgroundSize: 125px
   type: Start-Up
+- logo: /assets/images/sponsors/Nokod_color_horizontal.png
+  name: Nokod Security
+  url: https://nokodsecurity.com/
+  backgroundSize: 125px
+  type: Start-Up
+  
   
