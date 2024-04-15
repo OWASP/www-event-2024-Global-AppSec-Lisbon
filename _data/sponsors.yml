@@ -108,5 +108,8 @@
   url: https://nokodsecurity.com/
   backgroundSize: 125px
   type: Start-Up
-  
+- logo: /assets/images/sponsors/AP2SI.jpeg
+  name: AP2SI
+  url: https://ap2si.org/
+  backgroundSize: 125px
   
