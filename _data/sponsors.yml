@@ -112,4 +112,11 @@
   name: AP2SI
   url: https://ap2si.org/
   backgroundSize: 125px
+  type: Start-Up
+- logo: /assets/images/sponsors/DefectDojo.png
+  name: DefectDojo
+  url: https://defectdojo.com/
+  backgroundSize: 125px
+  type: Start-Up
+  
   
