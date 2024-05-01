@@ -31,7 +31,7 @@ This confirmation packet provides important information, including preparing for
 ### Preparing You and Your Team
 
 + REGISTER: It is critical that all of your conference pass holders register. Discount codes have been distributed to all paid exhibitors and sponsors.
-+ Full Conference Passes include access to: Coffee breaks, breakfast, and lunch on Thursday, June 27, and Friday, June 28, and access to the conference talks & expo area, social events, and conference activities.
++ Full Conference Passes include access to: Coffee breaks, breakfast, and lunch on Thursday, June 27, and Friday, June 28, and access to the conference talks & expo area, social events that do not require a separate ticket purchase, and conference activities such as our Capture the Flag, Meet the Mentor, and OWASP Brain Battle Spectacular.
 + BOOK HOTEL: OWASP has a room block for Global AppSec Lisbon 2024 attendees and exhibitors. To book a room at the event hotel, please use [this link](https://www.hyatt.com/en-US/group-booking/LISHR/G-YAAA).
   
 ### Event Exhibitors
