@@ -23,7 +23,7 @@ This confirmation packet provides important information, including preparing for
 + [Book your hotel room](https://www.hyatt.com/en-US/group-booking/LISHR/G-YAAA) 
 + [A/V equipment rental](mailto:sandra.rodrigues@avk.pt)
 + [Furniture Rental](https://eventorders.com/product-category/global-appsec-lisbon-2024-g90fw2d/)
-+ [Shipping to and from the event]Contact Rangel Logistics Solutions]ASAP 
++ [Shipping to and from the event](mailto:helder.marques@rangel.com) Rangel suggests shipping as early as possible. They do not charge pre-show storage fees and prefer to have the goods at their location rather than in courier companies without any possible communication, as sometimes shipping from outside the EU or Portugal can be tricky.
 + Lead Scanner - more details to follow
 + Exhibitor check-in & set-up Wednesday, June 26, 4pm
 + Exhibitor tear-down Friday, June 28, 5pm
@@ -54,8 +54,7 @@ Details on the event schedule can be found [here](https://owaspglobalappseclisbo
 
 ### Shipping Materials to and from the event
 
-For booth materials, shipping & receiving to and after the show, you will work directly with [RANGEL LOGISTICS SOLUTIONS](mailto: helder.marques@rangel.com). [Shipping Instructions](/assets/images/ShippingInstructionsOWASP_2024.pdf) [Tariff](/assets/images
-/TariffOWASP2024Lisbon.pdf)
+For booth materials, shipping & receiving to and after the show, you will work directly with [Rangle Logistics Solutions](mailto:helder.marques@rangel.com). [Shipping Instructions](/assets/images/ShippingInstructionsOWASP_2024.pdf). [Tariff](/assets/images/TariffOWASP2024Lisbon.pdf). Rangel suggests shipping as early as possible. They do not charge pre-show storage fees and prefer to have the goods at their location rather than in courier companies without any possible communication, as sometimes shipping from outside the EU or Portugal can be tricky.
 
 ### Lead Retrieval
 
