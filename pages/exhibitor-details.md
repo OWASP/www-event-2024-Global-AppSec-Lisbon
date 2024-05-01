@@ -64,6 +64,7 @@ If your package includes a lead scanner license (valid for up to 3 users) or you
 [AVK Audio](TBA)
 
 **Furniture Rentals** 
+Diamond exhibitors will be provided with (2) tables and (4) chairs. Gold, Silver, and Start-up exhibitors will be provided with (1) table and (2) chairs. Additional furniture rentals **are optional**. 
 [TotalExpo](https://eventorders.com/product-category/global-appsec-lisbon-2024-g90fw2d/)
 
 **Electricity** 
