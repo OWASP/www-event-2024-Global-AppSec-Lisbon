@@ -21,7 +21,7 @@ This confirmation packet provides important information, including preparing for
 
 + [Register your onsite team](https://lisbon.globalappsec.org/) ASAP Discount codes have been sent to your rep for paid exhibitors and sponsors.
 + [Book your hotel room](https://www.hyatt.com/en-US/group-booking/LISHR/G-YAAA) 
-+ [A/V equipment rental](mailto: sandra.rodrigues@avk.pt)
++ [A/V equipment rental](mailto:sandra.rodrigues@avk.pt)
 + [Furniture Rental](https://eventorders.com/product-category/global-appsec-lisbon-2024-g90fw2d/)
 + [Shipping to and from the event]Contact Rangel Logistics Solutions]ASAP 
 + Lead Scanner - more details to follow
