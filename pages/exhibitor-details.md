@@ -54,14 +54,15 @@ Details on the event schedule can be found [here](https://owaspglobalappseclisbo
 
 ### Shipping Materials to and from the event
 
-For booth materials, shipping & receiving to and after the show, you will work directly with [RANGEL LOGISTICS SOLUTIONS](TBA).
+For booth materials, shipping & receiving to and after the show, you will work directly with [RANGEL LOGISTICS SOLUTIONS](mailto: helder.marques@rangel.com). [Shipping Instructions](/assets/images/ShippingInstructionsOWASP_2024.pdf) [Tariff](/assets/images
+/TariffOWASP2024Lisbon.pdf)
 
 ### Lead Retrieval
 
 If your package includes a lead scanner license (valid for up to 3 users) or you have purchased a lead scanner license from OWASP, you will receive more details shortly. 
 
 ### A/V Rentals
-[AVK Audio](TBA)
+[AVK Audio](sandra.rodrigues@avk.pt)
 
 ### Furniture Rentals
 Diamond exhibitors will be provided with (2) tables and (4) chairs. Gold, Silver, and Start-up exhibitors will be provided with (1) table and (2) chairs. Additional furniture rentals **are optional**. 
@@ -78,7 +79,7 @@ Shared conference Wi-Fi will be available. Please ask for the network and passwo
 + Kelly Santalucia, OWASP Foundation [kelly.santalucia@owasp.com](mailto:kelly.santalucia@owasp.com)
 + Lauren Thomas, OWASP Foundation [lauren.thomas@owasp.com](mailto:lauren.thomas@owasp.com)
 + Lead Retrieval - more details coming soon
-+ Freight inbound and outbound - 
++ Freight inbound and outbound - Rangel Logistics Solutions [Helder Marques](mailto: helder.marques@rangel.com) or [Paulo Gameiro](mailto:paulo.gameiro@rangel.com)
 + A/V - [AVK Audio](sandra.rodrigues@avk.pt)
 + Furniture Needs - [TotalExpo](mailto:Jennifer@totalexpo.ie)
 + Electricity - [TotalExpo](mailto:Jennifer@totalexpo.ie)
