@@ -39,7 +39,7 @@ This confirmation packet provides important information, including preparing for
 + Diamond:  7 full conference passes 
 + Gold: 5 full conference passes
 + Silver & Start-Up: 2 full conference passes
-+ Additional full conference and expo-only passes may be purchased [here](https://lisbon.globalappsec.org/)
++ Additional full conference and expo-only passes may be purchased [here](https://lisbon.globalappsec.org/).
 
 ### Preparing for the Conference
 
