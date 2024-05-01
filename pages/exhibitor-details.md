@@ -46,7 +46,7 @@ This confirmation packet provides important information, including preparing for
 + Event Location: Praça das Industrias, 1  1300-307 Lisbon, Portugal
 + Vendor Check-in and Set-up: Wednesday, June 26, 4pm
 + Exhibitor Area Hours: Thursday, June 27, 8am-8:30pm and Friday, June 28, 8am-5pm
-+ Vendor Tear Down: Friday, June 28 5pm. All vendor areas must be torn down by 9pm.
++ Vendor Tear Down: Friday, June 28, 5pm. All vendor areas must be torn down by 9pm.
 + (Exhibitor Floor Plan)(/assets/images/FINALGlobalAppsecLisbon2024Floorplan.pdf)
 ### Conference Schedule
 
