@@ -65,10 +65,10 @@ If your package includes a lead scanner license (valid for up to 3 users) or you
 
 ### Furniture Rentals
 Diamond exhibitors will be provided with (2) tables and (4) chairs. Gold, Silver, and Start-up exhibitors will be provided with (1) table and (2) chairs. Additional furniture rentals **are optional**. 
-[TotalExpo](https://eventorders.com/product-category/global-appsec-lisbon-2024-g90fw2d/)
+[TotalExpo](https://eventorders.com/product-category/global-appsec-lisbon-2024-g90fw2d/).
 
 ### Electricity
-Electricity is not provided in any exhibitor package. If you require electricity at your expo area, please contact [TotalExpo](mailto:Jennifer@totalexpo.ie)
+Electricity is not provided in any exhibitor package. If you require electricity at your expo area, please contact [TotalExpo](mailto:Jennifer@totalexpo.ie).
 
 ### Wi-Fi
 Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets, which your team will find on their expo table when they arrive.
