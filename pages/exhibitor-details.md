@@ -55,7 +55,7 @@ Details on the event schedule can be found [here](https://owaspglobalappseclisbo
 
 ### Shipping Materials to and from the event
 
-For booth materials, shipping & receiving to and after the show, you will work directly with [Rangle Logistics Solutions](mailto:helder.marques@rangel.com). Rangel suggests shipping as early as possible. They do not charge pre-show storage fees and prefer to have the goods at their location rather than in courier companies without any possible communication, as sometimes shipping from outside the EU or Portugal can be tricky. [Shipping Instructions](/assets/images/ShippingInstructionsOWASP_2024.pdf). [Tariff](/assets/images/TariffOWASP2024Lisbon.pdf). 
+For booth materials, shipping & receiving to and after the show, you will work directly with [Rangle Logistics Solutions](mailto:helder.marques@rangel.com). Rangel suggests shipping as early as possible. They do not charge pre-show storage fees and prefer to have the goods at their location rather than in courier companies without any possible communication, as sometimes shipping from outside the EU or Portugal can be tricky. [Shipping Instructions Form](/assets/images/ShippingInstructionsOWASP_2024.pdf). [Tariff Form](/assets/images/TariffOWASP2024Lisbon.pdf). 
 
 ### Lead Retrieval
 
