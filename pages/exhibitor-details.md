@@ -77,11 +77,11 @@ Shared conference Wi-Fi will be available. Please ask for the network and passwo
 
 + Kelly Santalucia, OWASP Foundation [kelly.santalucia@owasp.com](mailto:kelly.santalucia@owasp.com)
 + Lauren Thomas, OWASP Foundation [lauren.thomas@owasp.com](mailto:lauren.thomas@owasp.com)
-+ Lead Retrieval - more details coming soon
-+ Freight inbound and outbound - Rangel Logistics Solutions [Helder Marques](mailto:helder.marques@rangel.com) or [Paulo Gameiro](mailto:paulo.gameiro@rangel.com)
 + A/V - [AVK Audio](sandra.rodrigues@avk.pt)
-+ Furniture Needs - [TotalExpo](mailto:Jennifer@totalexpo.ie)
 + Electricity - [TotalExpo](mailto:Jennifer@totalexpo.ie)
++ Freight inbound and outbound - Rangel Logistics Solutions [Helder Marques](mailto:helder.marques@rangel.com) or [Paulo Gameiro](mailto:paulo.gameiro@rangel.com)
++ Furniture Needs - [TotalExpo](mailto:Jennifer@totalexpo.ie)
++ Lead Retrieval - more details coming soon
 
 **Details at a Glance**
 
