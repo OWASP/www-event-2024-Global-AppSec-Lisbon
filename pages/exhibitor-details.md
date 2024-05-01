@@ -50,7 +50,7 @@ This confirmation packet provides important information, including preparing for
 + [Exhibitor Floor Plan](/assets/images/FINALGlobalAppsecLisbon2024Floorplan.pdf)
 ### Conference Schedule
 
-Details on the event schedule can be found [here](https://owaspglobalappseclisbon2024.sched.com/)
+Details on the event schedule can be found [here](https://owaspglobalappseclisbon2024.sched.com/).
 
 ### Shipping Materials to and from the event
 
