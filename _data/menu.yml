@@ -22,8 +22,8 @@
       url: https://owasp.wufoo.com/forms/global-appsec-lisbon-exhibit-sponsor-interest/
     #- title: Exhibitors & Sponsors
     #  url: /sponsors/
-    #- title: Exhibitor Kit
-    #  url: /exhibitordetails/
+    - title: Exhibitor Kit
+      url: /exhibitordetails/
 - title: ABOUT
   url: /about/
   items:
