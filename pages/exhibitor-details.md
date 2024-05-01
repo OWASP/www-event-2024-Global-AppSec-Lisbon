@@ -84,18 +84,18 @@ Shared conference Wi-Fi will be available. Please ask for the network and passwo
 + Furniture Needs - [TotalExpo](mailto:Jennifer@totalexpo.ie)
 + Lead Retrieval - more details coming soon
 
-**Details at a Glance**
+### Details at a Glance
 
 + Exhibit Show Dates & Hours
 + Thursday, June 27, 8am - 8:30pm
 + Friday, June 28, 8am - 5pm
 
-**Show Location**
+### Show Location
 
 + Congress Centre Lisbon
 + Praça das Industrias, 1 1300-307 Lisbon, Portugal
 
-**OTHER QUESTIONS?** 
+### OTHER QUESTIONS?
 
 + Is there something we missed? Please Contact Us at [events@owasp.com](mailto:events@owasp.com)
 
