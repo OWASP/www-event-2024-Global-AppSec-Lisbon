@@ -118,5 +118,9 @@
   url: https://defectdojo.com/
   backgroundSize: 125px
   type: Start-Up
-  
+- logo: /assets/images/sponsors/Synopsys-Balwurk.png
+  name: Synopsys/Balwurk
+  url: https://www.synopsys.com
+  backgroundSize: 125px
+  type: Diamond
   
