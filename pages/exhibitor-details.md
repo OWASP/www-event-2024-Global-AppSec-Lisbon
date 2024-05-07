@@ -21,7 +21,7 @@ This confirmation packet provides important information, including preparing for
 
 + [Register your onsite team](https://lisbon.globalappsec.org/) ASAP Discount codes have been sent to your rep for paid exhibitors and sponsors.
 + [Book your hotel room](https://www.hyatt.com/en-US/group-booking/LISHR/G-YAAA) ASAP
-+ [Electricity](https://eventorders.com/product-category/global-appsec-lisbon-2024-g90fw2d/).
++ [Electricity](https://eventorders.com/product-category/global-appsec-lisbon-2024-g90fw2d/)
 + [A/V equipment rental](mailto:sandra.rodrigues@avk.pt)
 + [Furniture Rental](https://eventorders.com/product-category/global-appsec-lisbon-2024-g90fw2d/)
 + [Shipping to and from the event](mailto:helder.marques@rangel.com) Rangel suggests shipping as early as possible. They do not charge pre-show storage fees and prefer to have the goods at their location rather than with courier companies without any possible communication, as sometimes shipping from outside the EU or Portugal can be tricky. Shipping forms can be found futher down on this document under "Shipping Materials to and from the event".
