@@ -123,4 +123,9 @@
   url: https://www.synopsys.com
   backgroundSize: 125px
   type: Diamond
+- logo: /assets/images/sponsors/ArnicaFull-OnWhite.png
+  name: Arnica
+  url: https://www.arnica.io/
+  backgroundSize: 125px
+  type: Lanyard
   
