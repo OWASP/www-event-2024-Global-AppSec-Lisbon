@@ -128,4 +128,9 @@
   url: https://www.arnica.io/
   backgroundSize: 125px
   type: Lanyard
+- logo: /assets/images/sponsors/Escape.png
+  name: Escape
+  url: https://escape.tech/
+  backgroundSize: 125px
+  type: Start-Up
   
