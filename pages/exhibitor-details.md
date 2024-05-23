@@ -63,7 +63,7 @@ For booth materials, shipping & receiving to and after the show, you will work d
 If your package includes a lead scanner license (valid for up to 3 users) or you have purchased a lead scanner license from OWASP, you will receive more details shortly. 
 
 ### A/V Rentals
-[AVK Audio](sandra.rodrigues@avk.pt)
+[AVK Audio](mailto:sandra.rodrigues@avk.pt)
 
 ### Furniture Rentals
 Diamond exhibitors will be provided with (2) tables and (4) chairs. Gold, Silver, and Start-up exhibitors will be provided with (1) table and (2) chairs. Additional furniture rentals **are optional**. 
