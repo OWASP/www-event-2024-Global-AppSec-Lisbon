@@ -133,4 +133,9 @@
   url: https://escape.tech/
   backgroundSize: 125px
   type: Start-Up
+- logo: /assets/images/sponsors/Pixee.png
+  name: Pizee
+  url: https://www.pixee.ai/
+  backgroundSize: 125px
+  type: Start-Up
   
