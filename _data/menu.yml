@@ -29,8 +29,8 @@
   items:
     - title: Hotel Reservations
       url: https://www.hyatt.com/en-US/group-booking/LISHR/G-YAAA
-    - title: Volunteer
-      url: https://owasp.wufoo.com/forms/zxop530zniwvr/
+    - title: Volunteer - CLOSED
+      #url: https://owasp.wufoo.com/forms/zxop530zniwvr/
     - title: OWASP Merchandise
       url: https://owasp.org/store
     - title: Event Code of Conduct
