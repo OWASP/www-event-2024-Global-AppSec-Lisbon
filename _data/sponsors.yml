@@ -138,4 +138,8 @@
   url: https://www.pixee.ai/
   backgroundSize: 125px
   type: Start-Up
-  
+- logo: /assets/images/sponsors/Appdome.png
+  name: Appdome
+  url: https://www.appdome.com/
+  backgroundSize: 125px
+  type: Networking Reception
