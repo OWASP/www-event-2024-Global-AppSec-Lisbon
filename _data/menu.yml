@@ -8,8 +8,8 @@
     #  url : /
     - title: Training
       url : https://lisbon.globalappsec.org/trainings/
-    # - title: Event Images
-    #  url : /media/
+    - title: Event Images
+      url : /media/
     # - title: Training
     #  url: /
     - title: Call for Trainers-CLOSED
