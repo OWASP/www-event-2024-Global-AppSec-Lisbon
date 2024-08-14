@@ -7,13 +7,4 @@ permalink: /media/
 
 ---
 
-<section class="member-list">
-<div>
-{% assign images = site.data.media | where: "type", "image" %}
-{% for img in images %}
-<a href="{{img.url}}" class="member-logo" target="_blank" style="margin:30px; max-width:250px; max-height:250px;">
-<img src="{{img.turl}}" style="max-height: 250px; max-width:250px;"/>
-</a>
-{% endfor %}
-</div>
-</section>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/201144174@N07/shares/12s14cbmdm" title=""><img src="" width="1600" height="1200" alt=""/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
